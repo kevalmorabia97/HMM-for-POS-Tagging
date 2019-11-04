@@ -21,13 +21,10 @@ class TaggedWord:
     """
     Class that stores a word and tag together
     """
-    def __init__(self, taggedString, lowercase=False):
+    def __init__(self, taggedString):
         parts = taggedString.split('_')
         self.word = parts[0] # convert all words to lower case
         self.tag = parts[1]
-
-        if lowercase:
-            self.word = self.word.lower()
 
 
 class HMM:
@@ -48,7 +45,7 @@ class HMM:
         self.log_trans_prob = defaultdict(lambda: float('-inf'))
         self.log_emit_prob = defaultdict(lambda: float('-inf'))
 
-    def readLabeledData(self, inputFile, lowercase=True):
+    def readLabeledData(self, inputFile):
         """
         Reads a labeled data inputFile, and returns a nested list of sentences, where each sentence is a list of TaggedWord objects
         """
@@ -59,7 +56,7 @@ class HMM:
                 raw = line.split()
                 sen = []
                 for token in raw:
-                    sen.append(TaggedWord(token, lowercase))
+                    sen.append(TaggedWord(token))
                 sens.append(sen) # append this list as an element to the list of sentences
             return sens
         else:
@@ -158,10 +155,10 @@ class HMM:
         for sen in data:
             processed_sen = []
             for word in sen:
-                if word.lower() not in self.vocab:
+                if word not in self.vocab:
                     processed_sen.append(UNK)
                 else:
-                    processed_sen.append(word.lower())
+                    processed_sen.append(word)
 
             vitTags = self.viterbi(processed_sen)
             senString = ''
