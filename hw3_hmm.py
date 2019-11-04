@@ -44,7 +44,9 @@ class HMM:
         self.tag_counts = defaultdict(float) 
         self.bigram_tag_counts = defaultdict(float) 
         self.word_tag_counts = defaultdict(float) 
-        self.init_log_tag_prob = defaultdict(float)
+        self.init_log_tag_prob = defaultdict(lambda: float('-inf'))
+        self.log_trans_prob = defaultdict(lambda: float('-inf'))
+        self.log_emit_prob = defaultdict(lambda: float('-inf'))
 
     def readLabeledData(self, inputFile, lowercase=True):
         """
@@ -123,6 +125,15 @@ class HMM:
             else:
                 self.init_log_tag_prob[tag] = float('-inf')
 
+        for prev_tag in self.states:
+            for tag in self.states:
+                self.log_trans_prob[(prev_tag, tag)] = self.get_log_transition_prob(tag, prev_tag)
+        
+        for tag in self.states:
+            for word in self.vocab:
+                self.log_emit_prob[(tag, word)] = self.get_log_emission_prob(word, tag)
+
+
     def get_log_transition_prob(self, tag, prev_tag):
         """
         return log[smoothed p(tag | prev_tag)]
@@ -171,16 +182,16 @@ class HMM:
         backpointers = np.zeros((n_words, self.n_tags), dtype=np.int32)
 
         for j in range(self.n_tags):
-            trellis[0, j] = self.init_log_tag_prob[tags[j]] + self.get_log_emission_prob(words[0], tags[j])
+            trellis[0, j] = self.init_log_tag_prob[tags[j]] + self.log_emit_prob[(tags[j], words[0])]
         
         for i in range(1, n_words):
             for j in range(self.n_tags):
                 for t in range(self.n_tags):
-                    temp = trellis[i-1, t] + self.get_log_transition_prob(tags[j], tags[t])
+                    temp = trellis[i-1, t] + self.log_trans_prob[(tags[t], tags[j])]
                     if temp > trellis[i, j] or trellis[i, j] == np.inf:
                         trellis[i, j] = temp
                         backpointers[i, j] = t
-                trellis[i, j] += self.get_log_emission_prob(words[i], tags[j])
+                trellis[i, j] += self.log_emit_prob[(tags[j], words[i])]
         
         best_end_tag = -1
         best_log_prob = float('-inf')
