@@ -178,7 +178,7 @@ class HMM:
         tags = sorted(list(self.states))
         n_words = len(words)
         trellis = np.zeros((n_words, self.n_tags), dtype=np.float64)
-        trellis.fill(np.inf)
+        trellis.fill(-np.inf)
         backpointers = np.zeros((n_words, self.n_tags), dtype=np.int32)
 
         for j in range(self.n_tags):
@@ -186,9 +186,11 @@ class HMM:
         
         for i in range(1, n_words):
             for j in range(self.n_tags):
+                if self.log_emit_prob[(tags[j], words[i])] == float('-inf'):
+                    continue
                 for t in range(self.n_tags):
                     temp = trellis[i-1, t] + self.log_trans_prob[(tags[t], tags[j])]
-                    if temp > trellis[i, j] or trellis[i, j] == np.inf:
+                    if temp > trellis[i, j]:
                         trellis[i, j] = temp
                         backpointers[i, j] = t
                 trellis[i, j] += self.log_emit_prob[(tags[j], words[i])]
