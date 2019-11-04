@@ -35,7 +35,7 @@ Yields_NNS on_IN money-market_JJ mutual_JJ funds_NNS continued_VBD to_TO slide_V
 The_DT average_JJ seven-day_JJ compound_NN yield_NN of_IN the_DT 400_CD taxable_JJ funds_NNS tracked_VBN by_IN IBC_NNP 's_POS Money_NN Fund_NN Report_NN eased_VBD a_DT fraction_NN of_IN a_DT percentage_NN point_NN to_TO 8.45_CD %_NN from_IN 8.47_JJ %_NN for_IN the_DT week_NN ended_VBD Tuesday_NNP ._.
 Compound_NN yields_NNS assume_VBP reinvestment_VBN of_IN dividends_NNS and_CC that_IN the_DT current_JJ yield_NN continues_VBZ for_IN a_DT year_NN ._.
 Average_JJ maturity_NN of_IN the_DT funds_NNS '_POS investments_NNS lengthened_VBN by_IN a_DT day_NN to_TO 41_CD days_NNS ,_, the_DT longest_NN since_IN early_JJ August_NNP ,_, according_VBG to_TO Donoghue_NNP 's_POS ._.
-Longer_JJR maturities_NNS are_VBP thought_VBN to_TO indicate_VB declining_VBG interest_NN rates_NNS because_IN they_PRP permit_VB portfolio_NN managers_NNS to_TO retain_VB relatively_RB higher_JJR rates_NNS for_IN a_DT longer_JJR period_NN ._.
+Longer_RB maturities_NNS are_VBP thought_VBN to_TO indicate_VB declining_VBG interest_NN rates_NNS because_IN they_PRP permit_VB portfolio_NN managers_NNS to_TO retain_VB relatively_RB higher_JJR rates_NNS for_IN a_DT longer_JJR period_NN ._.
 Shorter_JJ maturities_NNS are_VBP considered_VBN a_DT sign_NN of_IN rising_VBG rates_NNS because_IN portfolio_NN managers_NNS can_MD capture_VB higher_JJR rates_NNS sooner_RBR ._.
 The_DT average_JJ maturity_NN for_IN funds_NNS open_VBP only_RB to_TO institutions_NNS ,_, considered_VBN by_IN some_DT to_TO be_VB a_DT stronger_JJR indicator_NN because_IN those_DT managers_NNS watch_VBP the_DT market_NN closely_RB ,_, reached_VBD a_DT high_JJ point_NN for_IN the_DT year_NN --_: 33_CD days_NNS ._.
 Nevertheless_RB ,_, said_VBD Brenda_NNP Malizia_NNP Negus_NNP ,_, editor_NN of_IN Money_NN Fund_NN Report_NN ,_, yields_NNS ``_`` may_MD blip_VB up_RP again_RB before_IN they_PRP blip_VBD down_RP ''_'' because_IN of_IN recent_JJ rises_NNS in_IN short-term_JJ interest_NN rates_NNS ._.
@@ -54,7 +54,7 @@ W.R._NNP Grace_NNP holds_VBZ three_CD of_IN Grace_NNP Energy_NNP 's_POS seven_CD
 Pacific_NNP First_NNP Financial_NNP Corp._NNP said_VBD shareholders_NNS approved_VBD its_PRP$ acquisition_NN by_IN Royal_NNP Trustco_NNP Ltd._NNP of_IN Toronto_NNP for_IN $_$ 27_CD a_DT share_NN ,_, or_CC $_$ 212_CD million_CD ._.
 The_DT thrift_NN holding_VBG company_NN said_VBD it_PRP expects_VBZ to_TO obtain_VB regulatory_JJ approval_NN and_CC complete_VB the_DT transaction_NN by_IN year-end_NN ._.
 McDermott_NNP International_NNP Inc._NNP said_VBD its_PRP$ Babcock_NN &_CC Wilcox_JJ unit_NN completed_VBD the_DT sale_NN of_IN its_PRP$ Bailey_JJ Controls_NNS Operations_NNS to_TO Finmeccanica_CD S.p_CD ._. A._NNP for_IN $_$ 295_CD million_CD ._.
-Finmeccanica_NN is_VBZ an_DT Italian_JJ state-owned_JJ holding_NN company_NN with_IN interests_NNS in_IN the_DT mechanical_JJ engineering_NN industry_NN ._.
+Finmeccanica_NNP is_VBZ an_DT Italian_JJ state-owned_JJ holding_NN company_NN with_IN interests_NNS in_IN the_DT mechanical_JJ engineering_NN industry_NN ._.
 Bailey_JJ Controls_NNS ,_, based_VBN in_IN Wickliffe_NNP ,_, Ohio_NNP ,_, makes_VBZ computerized_JJ industrial_JJ controls_NNS systems_NNS ._.
 It_PRP employs_VBZ 2,700_JJ people_NNS and_CC has_VBZ annual_JJ revenue_NN of_IN about_IN $_$ 370_CD million_CD ._.
 The_DT federal_JJ government_NN suspended_VBD sales_NNS of_IN U.S._NNP savings_NNP bonds_NNS because_IN Congress_NNP has_VBZ n't_RB lifted_VBN the_DT ceiling_NN on_IN government_NN debt_NN ._.
@@ -74,7 +74,7 @@ And_CC the_DT city_NN decided_VBD to_TO treat_VB its_PRP$ guests_NN more_RBR lik
 The_DT idea_NN ,_, of_IN course_NN :_: to_TO prove_VB to_TO 125_CD corporate_JJ decision_NN makers_NNS that_IN the_DT buckle_NN on_IN the_DT Rust_JJ Belt_NN is_VBZ n't_RB so_RB rusty_VBN after_IN all_DT ,_, that_WDT it_PRP 's_VBZ a_DT good_JJ place_NN for_IN a_DT company_NN to_TO expand_VB ._.
 On_IN the_DT receiving_VBG end_NN of_IN the_DT message_NN were_VBD officials_NNS from_IN giants_NNS like_IN Du_NNP Pont_NNP and_CC Maytag_NNP ,_, along_RB with_IN lesser_JJ knowns_NN like_IN Trojan_JJ Steel_NN and_CC the_DT Valley_NNP Queen_NNP Cheese_NNP Factory_NN ._.
 For_IN starters_NNP ,_, the_DT executives_NNS joined_VBD Mayor_NNP William_NNP H._NNP Hudnut_NNP III_NNP for_IN an_DT evening_NN of_IN the_DT Indianapolis_NNP Symphony_NNP Orchestra_NNP and_CC a_DT guest_NNP pianist-comedian_NNP Victor_NNP Borge_NNP ._.
-Champagne_NN and_CC dessert_NNP followed_VBD ._.
+Champagne_NNP and_CC dessert_NNP followed_VBD ._.
 The_DT next_JJ morning_NN ,_, with_IN a_DT police_NN escort_NN ,_, busloads_VBG of_IN executives_NNS and_CC their_PRP$ wives_JJ raced_NN to_TO the_DT Indianapolis_NNP Motor_NNP Speedway_NNP ,_, unimpeded_VBG by_IN traffic_NN or_CC red_JJ lights_NNS ._.
 The_DT governor_NN could_MD n't_RB make_VB it_PRP ,_, so_RB the_DT lieutenant_JJ governor_NN welcomed_VBZ the_DT special_JJ guests_NN ._.
 A_DT buffet_JJ breakfast_NNS was_VBD held_VBN in_IN the_DT museum_NN ,_, where_WRB food_NN and_CC drinks_NNS are_VBP banned_VBN to_TO everyday_JJ visitors_NNS ._.
@@ -118,7 +118,7 @@ United_NNP Illuminating_NNP is_VBZ based_VBN in_IN New_NNP Haven_NNP ,_, Conn._N
 PS_NNP of_IN New_NNP Hampshire_NNP ,_, Manchester_NNP ,_, N.H._NNP ,_, values_VBZ its_PRP$ internal_JJ reorganization_NN plan_NN at_IN about_IN $_$ 2.2_CD billion_CD ._.
 John_NNP Rowe_NNP ,_, president_NN and_CC chief_JJ executive_NN officer_NN of_IN New_NNP England_NNP Electric_NNP ,_, said_VBD the_DT company_NN 's_POS return_NN on_IN equity_NN could_MD suffer_VB if_IN it_PRP made_VBD a_DT higher_JJR bid_NN and_CC its_PRP$ forecasts_NNS related_VBN to_TO PS_NNP of_IN New_NNP Hampshire_NNP --_: such_JJ as_IN growth_NN in_IN electricity_NN demand_NN and_CC improved_JJ operating_NN efficiencies_NNS --_: did_VBD n't_RB come_VB true_JJ ._.
 ``_`` When_WRB we_PRP evaluated_VBZ raising_VBG our_PRP$ bid_NN ,_, the_DT risks_NNS seemed_VBD substantial_JJ and_CC persistent_JJ over_IN the_DT next_JJ five_CD years_NNS ,_, and_CC the_DT rewards_NNS seemed_VBD a_DT long_JJ way_NN out_RP ._.
-That_WDT got_VBD hard_JJ to_TO take_VB ,_, ''_'' he_PRP added_VBD ._.
+That_DT got_VBD hard_JJ to_TO take_VB ,_, ''_'' he_PRP added_VBD ._.
 Mr._NNP Rowe_NNP also_RB noted_VBD that_DT political_JJ concerns_NNS also_RB worried_VBN New_NNP England_NNP Electric_NNP ._.
 No_DT matter_NN who_WP owns_VBZ PS_NNP of_IN New_NNP Hampshire_NNP ,_, after_IN it_PRP emerges_VBD from_IN bankruptcy_NN proceedings_NNS its_PRP$ rates_NNS will_MD be_VB among_IN the_DT highest_JJS in_IN the_DT nation_NN ,_, he_PRP said_VBD ._.
 ``_`` That_DT attracts_JJ attention_NN ..._:
@@ -250,14 +250,14 @@ Crude_NN as_IN they_PRP were_VBD ,_, these_DT early_JJ PCs_NNS triggered_VBD exp
 Big_JJ mainframe_NN computers_NNS for_IN business_NN had_VBD been_VBN around_RP for_IN years_NNS ._.
 But_CC the_DT new_NNP 1977_NNP PCs_NNP --_: unlike_IN earlier_RBR built-from-kit_JJ types_NNS such_JJ as_IN the_DT Altair_NN ,_, Sol_NNP and_CC IMSAI_NNP --_: had_VBD keyboards_NNP and_CC could_MD store_VB about_IN two_CD pages_NNS of_IN data_NNS in_IN their_PRP$ memories_NNS ._.
 Current_JJ PCs_NNS are_VBP more_JJR than_IN 50_CD times_NNS faster_RBR and_CC have_VB memory_NN capacity_NN 500_CD times_NNS greater_JJR than_IN their_PRP$ 1977_JJ counterparts_NNS ._.
-There_RB were_VBD many_JJ pioneer_NNP PC_NNP contributors_NNP ._.
+There_EX were_VBD many_JJ pioneer_NNP PC_NNP contributors_NNP ._.
 William_NNP Gates_NNP and_CC Paul_NNP Allen_NNP in_IN 1975_NNP developed_VBD an_DT early_JJ language-housekeeper_JJ system_NN for_IN PCs_NNP ,_, and_CC Gates_NNP became_VBD an_DT industry_NN billionaire_CD six_CD years_NNS after_IN IBM_NNP adapted_VBD one_CD of_IN these_DT versions_NN in_IN 1981_CD ._.
 Alan_NNP F._NNP Shugart_NNP ,_, currently_RB chairman_NN of_IN Seagate_NNP Technology_NNP ,_, led_VBD the_DT team_NN that_WDT developed_VBD the_DT disk_NN drives_NNS for_IN PCs_NNP ._.
 Dennis_NNP Hayes_NNP and_CC Dale_NNP Heatherington_NNP ,_, two_CD Atlanta_NNP engineers_NNS ,_, were_VBD co-developers_VBN of_IN the_DT internal_JJ modems_NNS that_WDT allow_VBP PCs_VBN to_TO share_NN data_NNS via_IN the_DT telephone_NN ._.
 IBM_NNP ,_, the_DT world_NN leader_NN in_IN computers_NNS ,_, did_VBD n't_RB offer_VB its_PRP$ first_JJ PC_NN until_IN August_NNP 1981_CD as_IN many_JJ other_JJ companies_NNS entered_VBD the_DT market_NN ._.
 Today_NN ,_, PC_JJ shipments_NNS annually_RB total_VB some_DT $_$ 38.3_CD billion_CD world-wide_JJ ._.
 F.H._NNP Faulding_NNP &_CC Co._NNP ,_, an_DT Australian_JJ pharmaceuticals_NNS company_NN ,_, said_VBD its_PRP$ Moleculon_NNP Inc._NNP affiliate_NN acquired_VBD Kalipharma_NNP Inc._NNP for_IN $_$ 23_CD million_CD ._.
-Kalipharma_NN is_VBZ a_DT New_JJ Jersey-based_NN pharmaceuticals_NNS concern_NN that_WDT sells_VBZ products_NNS under_IN the_DT Purepac_JJ label_NN ._.
+Kalipharma_NNP is_VBZ a_DT New_JJ Jersey-based_NN pharmaceuticals_NNS concern_NN that_WDT sells_VBZ products_NNS under_IN the_DT Purepac_JJ label_NN ._.
 Faulding_NNP said_VBD it_PRP owns_VBZ 33_CD %_NN of_IN Moleculon_NNP 's_POS voting_NN stock_NN and_CC has_VBZ an_DT agreement_NN to_TO acquire_VB an_DT additional_JJ 19_CD %_NN ._.
 That_DT stake_NN ,_, together_RB with_IN its_PRP$ convertible_JJ preferred_JJ stock_NN holdings_NNS ,_, gives_VBZ Faulding_VBG the_DT right_NN to_TO increase_VB its_PRP$ interest_NN to_TO 70_CD %_NN of_IN Moleculon_NNP 's_POS voting_NN stock_NN ._.
 Oil_NN production_NN from_IN Australia_NNP 's_POS Bass_NNP Strait_NNP fields_NNS will_MD be_VB raised_VBN by_IN 11,000_JJ barrels_NNS a_DT day_NN to_TO about_RB 321,000_JJ barrels_NNS with_IN the_DT launch_NN of_IN the_DT Whiting_JJ field_NN ,_, the_DT first_JJ of_IN five_CD small_JJ fields_NNS scheduled_VBN to_TO be_VB brought_VBN into_IN production_NN before_IN the_DT end_NN of_IN 1990_CD ._.
@@ -276,7 +276,7 @@ The_DT action_NN came_VBD in_IN response_NN to_TO a_DT petition_NN filed_VBN by_
 Previously_RB ,_, watch_VB imports_NNS were_VBD denied_VBN such_JJ duty-free_JJ treatment_NN ._.
 Timex_NNP had_VBD requested_VBN duty-free_JJ treatment_NN for_IN many_JJ types_NNS of_IN watches_NNP ,_, covered_VBN by_IN 58_CD different_JJ U.S._NNP tariff_NNP classifications_NNP ._.
 The_DT White_NNP House_NNP said_VBD Mr._NNP Bush_NNP decided_VBD to_TO grant_VB duty-free_JJ status_NN for_IN 18_CD categories_NNS ,_, but_CC turned_VBD down_RB such_JJ treatment_NN for_IN other_JJ types_NNS of_IN watches_VBG ``_`` because_IN of_IN the_DT potential_NN for_IN material_NN injury_NN to_TO watch_VB producers_NNS located_VBN in_IN the_DT U.S._NNP and_CC the_DT Virgin_JJ Islands_NNS ._. ''_''
-Timex_NN is_VBZ a_DT major_JJ U.S._NNP producer_NN and_CC seller_NN of_IN watches_NNP ,_, including_VBG low-priced_JJ battery-operated_NN watches_VBZ assembled_VBN in_IN the_DT Philippines_NN and_CC other_JJ developing_VBG nations_NNS covered_VBN by_IN the_DT U.S._NNP tariff_NNP preferences_NNP ._.
+Timex_NNP is_VBZ a_DT major_JJ U.S._NNP producer_NN and_CC seller_NN of_IN watches_NNP ,_, including_VBG low-priced_JJ battery-operated_NN watches_VBZ assembled_VBN in_IN the_DT Philippines_NN and_CC other_JJ developing_VBG nations_NNS covered_VBN by_IN the_DT U.S._NNP tariff_NNP preferences_NNP ._.
 U.S._NNP trade_NN officials_NNS said_VBD the_DT Philippines_NN and_CC Thailand_NNP would_MD be_VB the_DT main_JJ beneficiaries_NNS of_IN the_DT president_NN 's_POS action_NN ._.
 Imports_NNS of_IN the_DT types_NNS of_IN watches_NN that_IN now_RB will_MD be_VB eligible_JJ for_IN duty-free_JJ treatment_NN totaled_VBD about_IN $_$ 37.3_CD million_CD in_IN 1988_CD ,_, a_DT relatively_RB small_JJ share_NN of_IN the_DT $_$ 1.5_CD billion_CD in_IN U.S._NNP watch_NN imports_NNS that_IN year_NN ,_, according_VBG to_TO an_DT aide_NN to_TO U.S._NNP Trade_NNP Representative_NNP Carla_NNP Hills_NNPS ._.
 Magna_NNP International_NNP Inc._NNP 's_POS chief_JJ financial_JJ officer_NN ,_, James_NNP McAlpine_NNP ,_, resigned_VBD and_CC its_PRP$ chairman_NN ,_, Frank_NNP Stronach_NNP ,_, is_VBZ stepping_VBG in_RP to_TO help_VB turn_VB the_DT automotive-parts_JJ manufacturer_NN around_RB ,_, the_DT company_NN said_VBD ._.
@@ -284,7 +284,7 @@ Mr._NNP Stronach_NNP will_MD direct_VB an_DT effort_NN to_TO reduce_VB overhead_
 Stephen_NNP Akerfeldt_NNP ,_, currently_RB vice_NN president_NN finance_NN ,_, will_MD succeed_VB Mr._NNP McAlpine_NNP ._.
 An_DT ambitious_JJ expansion_NN has_VBZ left_VBN Magna_VBN with_IN excess_JJ capacity_NN and_CC a_DT heavy_JJ debt_NN load_NN as_IN the_DT automotive_JJ industry_NN enters_VBZ a_DT downturn_NN ._.
 The_DT company_NN has_VBZ reported_VBN declines_NNS in_IN operating_VBG profit_NN in_IN each_DT of_IN the_DT past_JJ three_CD years_NNS ,_, despite_IN steady_JJ sales_NNS growth_NN ._.
-Magna_NN recently_RB cut_VB its_PRP$ quarterly_JJ dividend_NN in_IN half_NN and_CC the_DT company_NN 's_POS Class_NN A_DT shares_NNS are_VBP wallowing_VBN far_RB below_IN their_PRP$ 52-week_JJ high_JJ of_IN 16.125_JJ Canadian_JJ dollars_NNS (_( US$_$ 13.73_CD )_) ._.
+Magna_NNP recently_RB cut_VB its_PRP$ quarterly_JJ dividend_NN in_IN half_NN and_CC the_DT company_NN 's_POS Class_NN A_DT shares_NNS are_VBP wallowing_VBN far_RB below_IN their_PRP$ 52-week_JJ high_JJ of_IN 16.125_JJ Canadian_JJ dollars_NNS (_( US$_$ 13.73_CD )_) ._.
 On_IN the_DT Toronto_NNP Stock_NNP Exchange_NNP yesterday_NN ,_, Magna_JJ shares_NNS closed_VBD up_RP 37.5_CD Canadian_JJ cents_NNS to_TO C$_$ 9.625_CD ._.
 Mr._NNP Stronach_NNP ,_, founder_NN and_CC controlling_JJ shareholder_NN of_IN Magna_NNP ,_, resigned_VBD as_IN chief_JJ executive_NN officer_NN last_JJ year_NN to_TO seek_VB ,_, unsuccessfully_NNP ,_, a_DT seat_NN in_IN Canada_NNP 's_POS Parliament_NN ._.
 Analysts_NNS said_VBD Mr._NNP Stronach_NNP wants_VBZ to_TO resume_VB a_DT more_RBR influential_JJ role_NN in_IN running_VBG the_DT company_NN ._.
@@ -309,9 +309,9 @@ They_PRP also_RB have_VBP become_VBN large_JJ purchasers_NN of_IN Fannie_NNP Mae
 James_NNP L._NNP Pate_NNP ,_, 54-year-old_VBG executive_JJ vice_NN president_NN ,_, was_VBD named_VBN a_DT director_NN of_IN this_DT oil_NN concern_NN ,_, expanding_VBG the_DT board_NN to_TO 14_CD members_NNS ._.
 LTV_NNP Corp._NNP said_VBD a_DT federal_NNP bankruptcy_NNP court_NNP judge_NNP agreed_VBD to_TO extend_VB until_IN March_NNP 8_CD ,_, 1990_CD ,_, the_DT period_NN in_IN which_WDT the_DT steel_NN ,_, aerospace_NNP and_CC energy_NN products_NNS company_NN has_VBZ the_DT exclusive_JJ right_NN to_TO file_VB a_DT reorganization_NN plan_NN ._.
 The_DT company_NN is_VBZ operating_VBG under_IN Chapter_NNP 11_CD of_IN the_DT federal_JJ Bankruptcy_NN Code_NN ,_, giving_VBG it_PRP court_NN protection_NN from_IN creditors_NNS '_POS lawsuits_NNS while_IN it_PRP attempts_VBZ to_TO work_VB out_RP a_DT plan_NN to_TO pay_VB its_PRP$ debts_NNS ._.
-Italian_JJ chemical_NN giant_NN Montedison_NNP S.p.A._NNP ,_, through_IN its_PRP$ Montedison_JJ Acquisition_NN N.V._VBZ indirect_JJ unit_NN ,_, began_VBD its_PRP$ $_$ 37-a-share_CD tender_NN offer_NN for_IN all_PDT the_DT common_JJ shares_NNS outstanding_JJ of_IN Erbamont_NNP N.V._NNP ,_, a_DT maker_NN of_IN pharmaceuticals_NNS incorporated_VBN in_IN the_DT Netherlands_NNP ._.
+Italian_NNP chemical_NNP giant_NNP Montedison_NNP S.p.A._NNP ,_, through_IN its_PRP$ Montedison_JJ Acquisition_NN N.V._VBZ indirect_JJ unit_NN ,_, began_VBD its_PRP$ $_$ 37-a-share_CD tender_NN offer_NN for_IN all_PDT the_DT common_JJ shares_NNS outstanding_JJ of_IN Erbamont_NNP N.V._NNP ,_, a_DT maker_NN of_IN pharmaceuticals_NNS incorporated_VBN in_IN the_DT Netherlands_NNP ._.
 The_DT offer_NN ,_, advertised_VBG in_IN today_NN 's_POS editions_NN of_IN The_DT Wall_NNP Street_NNP Journal_NNP ,_, is_VBZ scheduled_VBN to_TO expire_VB at_IN the_DT end_NN of_IN November_NNP ._.
-Montedison_NN currently_RB owns_VBZ about_RB 72_CD %_NN of_IN Erbamont_NNP 's_POS common_JJ shares_NNS outstanding_JJ ._.
+Montedison_NNP currently_RB owns_VBZ about_RB 72_CD %_NN of_IN Erbamont_NNP 's_POS common_JJ shares_NNS outstanding_JJ ._.
 The_DT offer_NN is_VBZ being_VBG launched_VBN pursuant_VBN to_TO a_DT previously_RB announced_VBN agreement_NN between_IN the_DT companies_NNS ._.
 Japan_NNP 's_POS reserves_NNS of_IN gold_NN ,_, convertible_JJ foreign_JJ currencies_NNS ,_, and_CC special_JJ drawing_NN rights_NNS fell_VBD by_IN a_DT hefty_JJ $_$ 1.82_CD billion_CD in_IN October_NNP to_TO $_$ 84.29_CD billion_CD ,_, the_DT Finance_NNP Ministry_NNP said_VBD ._.
 The_DT total_JJ marks_NNS the_DT sixth_JJ consecutive_JJ monthly_JJ decline_NN ._.
@@ -429,7 +429,7 @@ Items_NNS listed_VBN as_IN being_VBG in_IN short_JJ supply_NN numbered_VBZ only_
 ``_`` It_PRP 's_VBZ an_DT odd_JJ thing_NN to_TO put_VB on_IN the_DT list_NN ,_, ''_'' Mr._NNP Bretz_NNP noted_VBD ._.
 He_PRP said_VBD that_IN for_IN the_DT second_JJ month_NN in_IN a_DT row_NN ,_, food_NNP processors_NNP reported_VBD a_DT shortage_NN of_IN nonfat_JJ dry_JJ milk_NN ._.
 They_PRP blamed_VBD increased_VBN demand_NN for_IN dairy_JJ products_NNS at_IN a_DT time_NN of_IN exceptionally_NNP high_NNP U.S._NNP exports_NNS of_IN dry_JJ milk_NN ,_, coupled_VBG with_IN very_RB low_JJ import_NN quotas_NNS ._.
-Pamela_JJ Sebastian_NN in_IN New_NNP York_NNP contributed_VBD to_TO this_DT article_NN ._.
+Pamela_NNP Sebastian_NNP in_IN New_NNP York_NNP contributed_VBD to_TO this_DT article_NN ._.
 Here_RB are_VBP the_DT Commerce_NNP Department_NNP 's_POS figures_NNS for_IN construction_NN spending_NN in_IN billions_NNS of_IN dollars_NNS at_IN seasonally_RB adjusted_VBN annual_JJ rates_NNS ._.
 Here_RB are_VBP the_DT Commerce_NNP Department_NNP 's_POS latest_JJS figures_NNS for_IN manufacturers_NNS in_IN billions_NNS of_IN dollars_NNS ,_, seasonally_RB adjusted_VBN ._.
 Judging_NN from_IN the_DT Americana_NN in_IN Haruki_NNP Murakami_NNP 's_POS ``_`` A_DT Wild_JJ Sheep_NNP Chase_NNP ''_'' (_( Kodansha_NNP ,_, 320_JJ pages_NNS ,_, $_$ 18.95_CD )_) ,_, baby_NN boomers_NNS on_IN both_DT sides_NNS of_IN the_DT Pacific_NNP have_VBP a_DT lot_NN in_IN common_JJ ._.
@@ -441,7 +441,7 @@ This_DT is_VBZ Japan_NNP ?_.
 For_IN an_DT American_JJ reader_NN ,_, part_NN of_IN the_DT charm_NN of_IN this_DT engaging_JJ novel_NN should_MD come_VB in_IN recognizing_NN that_IN Japan_NNP is_VBZ n't_RB the_DT buttoned-down_JJ society_NN of_IN contemporary_NNP American_NNP lore_NNP ._.
 It_PRP 's_VBZ also_RB refreshing_VBN to_TO read_VB a_DT Japanese_JJ author_NN who_WP clearly_RB does_VBZ n't_RB belong_VBN to_TO the_DT self-aggrandizing_NN ``_`` we-Japanese_FW ''_'' school_NN of_IN writers_NNS who_WP perpetuate_VBD the_DT notion_NN of_IN the_DT unique_JJ Japanese_JJ ,_, unfathomable_VBG by_IN outsiders_NNS ._.
 If_IN ``_`` A_DT Wild_JJ Sheep_NNP Chase_NNP ''_'' carries_VBZ an_DT implicit_JJ message_NN for_IN international_JJ relations_NNS ,_, it_PRP 's_VBZ that_IN the_DT Japanese_NNPS are_VBP more_JJR like_IN us_PRP than_IN most_JJS of_IN us_PRP think_VBP ._.
-That_WDT 's_VBZ not_RB to_TO say_VB that_IN the_DT nutty_JJ plot_NN of_IN ``_`` A_DT Wild_JJ Sheep_NNP Chase_NNP ''_'' is_VBZ rooted_VBN in_IN reality_NN ._.
+That_DT 's_VBZ not_RB to_TO say_VB that_IN the_DT nutty_JJ plot_NN of_IN ``_`` A_DT Wild_JJ Sheep_NNP Chase_NNP ''_'' is_VBZ rooted_VBN in_IN reality_NN ._.
 It_PRP 's_VBZ imaginative_NNP and_CC often_RB funny_JJ ._.
 A_DT disaffected_NN ,_, hard-drinking_NNP ,_, nearly-30_NNP hero_NNP sets_VBZ off_RP for_IN snow_JJ country_NN in_IN search_NN of_IN an_DT elusive_JJ sheep_NN with_IN a_DT star_NN on_IN its_PRP$ back_NN at_IN the_DT behest_NN of_IN a_DT sinister_NN ,_, erudite_JJ mobster_NN with_IN a_DT Stanford_JJ degree_NN ._.
 He_PRP has_VBZ in_IN tow_VBG his_PRP$ prescient_JJ girlfriend_NN ,_, whose_WP$ sassy_NNP retorts_NNP mark_NNP her_PRP as_IN anything_NN but_CC a_DT docile_JJ butterfly_NN ._.
@@ -470,7 +470,7 @@ Mr._NNP Katzenstein_NNP certainly_RB would_MD have_VB learned_VBN something_NN ,
 Ms._NNP Kirkpatrick_NNP ,_, the_DT Journal_NNP 's_POS deputy_NN editorial_NN features_NNS editor_NN ,_, worked_VBN in_IN Tokyo_NNP for_IN three_CD years_NNS ._.
 More_JJR and_CC more_JJR corners_NN of_IN the_DT globe_NNS are_VBP becoming_VBG free_JJ of_IN tobacco_NN smoke_NN ._.
 In_IN Singapore_NNP ,_, a_DT new_JJ law_NN requires_VBZ smokers_VBN to_TO put_VB out_RP their_PRP$ cigarettes_NNS before_IN entering_VBG restaurants_NNS ,_, department_NNP stores_NNPS and_CC sports_NNS centers_NNS or_CC face_VB a_DT $_$ 250_CD fine_NN ._.
-Discos_NN and_CC private_JJ clubs_NNS are_VBP exempt_JJ from_IN the_DT ban_NN ,_, and_CC smoking_NNP will_MD be_VB permitted_VBN in_IN bars_NN except_IN during_IN meal_JJ hours_NNS ,_, an_DT official_NN said_VBD ._.
+Discos_NNP and_CC private_JJ clubs_NNS are_VBP exempt_JJ from_IN the_DT ban_NN ,_, and_CC smoking_NNP will_MD be_VB permitted_VBN in_IN bars_NN except_IN during_IN meal_JJ hours_NNS ,_, an_DT official_NN said_VBD ._.
 Singapore_NNP already_RB bans_JJ smoking_NN in_IN all_DT theaters_NNS ,_, buses_NNS ,_, public_JJ elevators_NN ,_, hospitals_NNS and_CC fast-food_NN restaurants_NNS ._.
 In_IN Malaysia_NNP ,_, Siti_NNP Zaharah_NNP Sulaiman_NNP ,_, a_DT deputy_NN minister_NN in_IN the_DT prime_JJ minister_NN 's_POS office_NN ,_, launched_VBD a_DT ``_`` No-Smoking_JJ Week_NN ''_'' at_IN the_DT Mara_JJ Institute_NN of_IN Technology_NN near_IN Kuala_NNP Lumpur_NNP and_CC urged_VBD other_JJ schools_NNS to_TO ban_VB on-campus_JJ smoking_NN ._.
 South_NNP Korea_NNP has_VBZ different_JJ concerns_NNS ._.
@@ -518,7 +518,7 @@ Of_IN course_NN ,_, if_IN the_DT film_NN contained_VBD dialogue_NN ,_, Mr._NNP L
 So_RB would_MD the_DT Little_JJ Tramp_NN ,_, for_IN that_DT matter_NN ._.
 I_PRP say_VBP ``_`` contained_VBN dialogue_NN ''_'' because_IN ``_`` Sidewalk_JJ Stories_NNS ''_'' is_VBZ n't_RB really_RB silent_VBN at_IN all_DT ._.
 Composer_NNP Marc_NNP Marder_NNP ,_, a_DT college_NN friend_NN of_IN Mr._NNP Lane_NNP 's_POS who_WP earns_VBZ his_PRP$ living_NN playing_VBG the_DT double_JJ bass_NN in_IN classical_JJ music_NN ensembles_NN ,_, has_VBZ prepared_VBN an_DT exciting_NN ,_, eclectic_JJ score_NN that_WDT tells_VBZ you_PRP what_WP the_DT characters_NNS are_VBP thinking_VBG and_CC feeling_VBG far_RB more_JJR precisely_NN than_IN intertitles_NNP ,_, or_CC even_RB words_NNS ,_, would_MD ._.
-Much_JJ of_IN Mr._NNP Lane_NNP 's_POS film_NN takes_VBZ a_DT highly_RB romanticized_JJ view_NN of_IN life_NN on_IN the_DT streets_NNS (_( though_RB probably_RB no_RB more_JJR romanticized_NN than_IN Mr._NNP Chaplin_NNP 's_POS notion_NN of_IN the_DT Tramp_NN as_IN the_DT good-hearted_JJ free_JJ spirit_NN )_) ._.
+Much_RB of_IN Mr._NNP Lane_NNP 's_POS film_NN takes_VBZ a_DT highly_RB romanticized_JJ view_NN of_IN life_NN on_IN the_DT streets_NNS (_( though_RB probably_RB no_RB more_JJR romanticized_NN than_IN Mr._NNP Chaplin_NNP 's_POS notion_NN of_IN the_DT Tramp_NN as_IN the_DT good-hearted_JJ free_JJ spirit_NN )_) ._.
 Filmed_NN in_IN lovely_NNP black_NNP and_CC white_NNP by_IN Bill_NNP Dill_NNP ,_, the_DT New_NNP York_NNP streets_NNS of_IN ``_`` Sidewalk_JJ Stories_NNS ''_'' seem_VBP benign_VBN ._.
 On_IN Wall_NNP Street_NNP men_NNS and_CC women_NNS walk_VBP with_IN great_JJ purpose_NN ,_, noticing_CD one_CD another_DT only_RB when_WRB they_PRP jostle_VBD for_IN cabs_NNP ._.
 The_DT Artist_NN hangs_VBD out_RP in_IN Greenwich_NNP Village_NNP ,_, on_IN a_DT strip_NN of_IN Sixth_JJ Avenue_NN populated_NN by_IN jugglers_NNP ,_, magicians_NNP and_CC other_JJ good-natured_JJ hustlers_NN ._.
@@ -551,7 +551,7 @@ But_CC she_PRP did_VBD n't_RB deserve_VB to_TO have_VB her_PRP$ head_NN chopped_
 There_EX is_VBZ very_RB little_JJ to_TO recommend_VB ``_`` Old_JJ Gringo_NN ,_, ''_'' a_DT confused_JJ rendering_NN of_IN the_DT Carlos_NNP Fuentes_NNP novel_NN of_IN the_DT Mexican_JJ Revolution_NN ._.
 Most_JJS of_IN the_DT picture_NN is_VBZ taken_VBN up_RP with_IN endless_JJ scenes_NNS of_IN many_JJ people_NNS either_CC fighting_VBG or_CC eating_VBG and_CC drinking_VBG to_TO celebrate_CD victory_NN ._.
 I_PRP mention_VBP the_DT picture_NN only_RB because_IN many_JJ bad_JJ movies_NNS have_VBP a_DT bright_JJ spot_NN ,_, and_CC this_DT one_NN has_VBZ Gregory_NNP Peck_NNP ,_, in_IN a_DT marvelously_JJ loose_JJ and_CC energetic_JJ portrayal_NN of_IN an_DT old_JJ man_NN who_WP wants_VBZ to_TO die_VB the_DT way_NN he_PRP wants_VBZ to_TO die_VB ._.
-Video_NN Tip_NNS :_: Before_IN seeing_VBG ``_`` Sidewalk_JJ Stories_NNS ,_, ''_'' take_VB a_DT look_NN at_IN ``_`` City_NN Lights_NNS ,_, ''_'' Chaplin_NNP 's_POS Tramp_NN at_IN his_PRP$ finest_NN ._.
+Video_NNP Tip_NNP :_: Before_IN seeing_VBG ``_`` Sidewalk_JJ Stories_NNS ,_, ''_'' take_VB a_DT look_NN at_IN ``_`` City_NN Lights_NNS ,_, ''_'' Chaplin_NNP 's_POS Tramp_NN at_IN his_PRP$ finest_NN ._.
 Boeing_NNP Co._NNP said_VBD it_PRP is_VBZ discussing_VBG plans_NNS with_IN three_CD of_IN its_PRP$ regular_JJ Japanese_JJ suppliers_NNS to_TO possibly_RB help_VB build_VB a_DT larger_JJR version_NN of_IN its_PRP$ popular_JJ 767_JJ twin-jet_NN ._.
 The_DT discussions_NNS are_VBP still_RB in_IN preliminary_JJ stages_NN ,_, and_CC the_DT specific_JJ details_NNS have_VBP n't_RB been_VBN worked_VBN out_RP between_IN the_DT Seattle_NNP aerospace_NNP company_NN and_CC Kawasaki_NNP Heavy_NNP Industries_NNP Ltd._NNP ,_, Mitsubishi_NNP Heavy_NNP Industries_NNP Ltd._NNP and_CC Fuji_NNP Heavy_NNP Industries_NNP Ltd_NNP ._.
 The_DT three_CD Japanese_JJ companies_NNS build_VBP the_DT body_NN sections_NNS of_IN the_DT 767_NN ,_, accounting_NN for_IN a_DT combined_JJ 15_CD %_NN of_IN the_DT aircraft_NN ._.
@@ -597,7 +597,7 @@ Virginia_NNP :_:
 Democratic_NNP Lt._NNP Gov._NNP Douglas_NNP Wilder_NNP opened_VBD his_PRP$ gubernatorial_JJ battle_NN with_IN Republican_NNP Marshall_NNP Coleman_NNP with_IN an_DT abortion_NN commercial_NN produced_VBN by_IN Frank_NNP Greer_NNP that_IN analysts_NNS of_IN every_DT political_JJ persuasion_NNS agree_VBP was_VBD a_DT tour_NN de_IN force_NN ._.
 Against_IN a_DT shot_NN of_IN Monticello_JJ superimposed_NN on_IN an_DT American_JJ flag_NN ,_, an_DT announcer_JJ talks_NNS about_IN the_DT ``_`` strong_JJ tradition_NN of_IN freedom_NN and_CC individual_JJ liberty_NN ''_'' that_IN Virginians_NNS have_VBP nurtured_VBN for_IN generations_NNP ._.
 Then_RB ,_, just_RB as_IN an_DT image_NN of_IN the_DT statue_NN of_IN Thomas_NNP Jefferson_NNP dissolves_NNP from_IN the_DT screen_NN ,_, the_DT announcer_NN continues_VBZ :_: ``_`` On_IN the_DT issue_NN of_IN abortion_NN ,_, Marshall_NNP Coleman_NNP wants_VBZ to_TO take_VB away_RP your_PRP$ right_NN to_TO choose_VB and_CC give_VB it_PRP to_TO the_DT politicians_NNS ._. ''_''
-That_IN commercial_JJ --_: which_WDT said_VBD Mr._NNP Coleman_NNP wanted_VBD to_TO take_VB away_RP the_DT right_NN of_IN abortion_NN ``_`` even_RB in_IN cases_NNS of_IN rape_NN and_CC incest_NN ,_, ''_'' a_DT charge_NN Mr._NNP Coleman_NNP denies_VBZ --_: changed_VBD the_DT dynamics_NNPS of_IN the_DT campaign_NN ,_, transforming_VBG it_PRP ,_, at_IN least_JJS in_IN part_NN ,_, into_IN a_DT referendum_NN on_IN abortion_NN ._.
+That_DT commercial_JJ --_: which_WDT said_VBD Mr._NNP Coleman_NNP wanted_VBD to_TO take_VB away_RP the_DT right_NN of_IN abortion_NN ``_`` even_RB in_IN cases_NNS of_IN rape_NN and_CC incest_NN ,_, ''_'' a_DT charge_NN Mr._NNP Coleman_NNP denies_VBZ --_: changed_VBD the_DT dynamics_NNPS of_IN the_DT campaign_NN ,_, transforming_VBG it_PRP ,_, at_IN least_JJS in_IN part_NN ,_, into_IN a_DT referendum_NN on_IN abortion_NN ._.
 The_DT ad_NN prompted_VBD Mr._NNP Coleman_NNP ,_, the_DT former_JJ Virginia_NNP attorney_NNP general_NNP ,_, to_TO launch_VB a_DT series_NN of_IN advertisements_NNS created_VBN by_IN Bob_NNP Goodman_NNP and_CC designed_VBN to_TO shake_VB Mr._NNP Wilder_NNP 's_POS support_NN among_IN the_DT very_JJ women_NNS who_WP were_VBD attracted_VBN by_IN the_DT abortion_NN ad_NN ._.
 The_DT Coleman_NNP counterattack_NNP featured_VBD a_DT close-up_NN of_IN a_DT young_JJ woman_NN in_IN shadows_NNP and_CC the_DT ad_NN suggested_VBD that_IN she_PRP was_VBD recalling_VBG an_DT unpleasant_NNP courtroom_NNP ordeal_NNP ._.
 A_DT voice_NN says_VBZ ,_, ``_`` C'mon_NNP ,_, now_RB ,_, do_VBP n't_RB you_PRP have_VBP boyfriends_VBN ?_. ''_''
@@ -674,7 +674,7 @@ Many_JJ Asians_NN regard_VBZ a_DT U.S._NNP presence_NN as_IN a_DT desirable_JJ c
 ``_`` No_DT one_NN wants_VBZ the_DT U.S._NNP to_TO pick_VB up_RP its_PRP$ marbles_NN and_CC go_VB home_NN ,_, ''_'' Mr._NNP Hormats_NNP says_VBZ ._.
 For_IN their_PRP$ part_NN ,_, Taiwan_NNP and_CC South_NNP Korea_NNP are_VBP expected_VBN to_TO step_VB up_RP their_PRP$ own_JJ investments_NNS in_IN the_DT next_JJ decade_NN to_TO try_VB to_TO slow_VB the_DT Japanese_JJ juggernaut_NN ._.
 ``_`` They_PRP do_VBP n't_RB want_VB Japan_NNP to_TO monopolize_VB the_DT region_NN and_CC sew_VBD it_PRP up_RB ,_, ''_'' says_VBZ Chong-sik_NNP Lee_NNP ,_, professor_NN of_IN East_JJ Asian_JJ politics_NNS at_IN the_DT University_NN of_IN Pennsylvania_NNP ._.
-Cathryn_JJ Rice_NN could_MD hardly_RB believe_VB her_PRP$ eyes_NNS ._.
+Cathryn_NNP Rice_NNP could_MD hardly_RB believe_VB her_PRP$ eyes_NNS ._.
 While_IN giving_VBG the_DT Comprehensive_JJ Test_NN of_IN Basic_JJ Skills_NNS to_TO ninth_VB graders_VBN at_IN Greenville_JJ High_JJ School_NN last_JJ March_NNP 16_CD ,_, she_PRP spotted_VBZ a_DT student_NN looking_VBG at_IN crib_JJ sheets_NNS ._.
 She_PRP had_VBD seen_VBN cheating_VBN before_RB ,_, but_CC these_DT notes_NNS were_VBD uncanny_CD ._.
 ``_`` A_DT stockbroker_NN is_VBZ an_DT example_NN of_IN a_DT profession_NN in_IN trade_NN and_CC finance_NN ..._: ._.
@@ -726,10 +726,10 @@ But_CC by_IN the_DT early_JJ 1980s_NNS ,_, its_PRP$ glory_NN had_VBD faded_VBN l
 ``_`` Crime_NN was_VBD awful_JJ ,_, test_NN scores_NNS were_VBD low_JJ ,_, and_CC there_EX was_VBD no_DT enrollment_NN in_IN honors_JJ programs_NNS ._. ''_''
 Mrs._NNP Ward_NNP took_VBD over_RP in_IN 1986_CD ,_, becoming_VBG the_DT school_NN 's_POS seventh_JJ principal_NN in_IN 15_CD years_NNS ._.
 Her_PRP$ immediate_JJ predecessor_NN suffered_VBD a_DT nervous_JJ breakdown_NN ._.
-Prior_JJ to_TO his_PRP$ term_NN ,_, a_DT teacher_JJ bled_NN to_TO death_NN in_IN the_DT halls_NN ,_, stabbed_VBG by_IN a_DT student_NN ._.
+Prior_RB to_TO his_PRP$ term_NN ,_, a_DT teacher_JJ bled_NN to_TO death_NN in_IN the_DT halls_NN ,_, stabbed_VBG by_IN a_DT student_NN ._.
 Academically_NNP ,_, Mrs._NNP Ward_NNP says_VBZ ,_, the_DT school_NN was_VBD having_VBG trouble_NN serving_VBG in_IN harmony_VBG its_PRP$ two_CD disparate_CD ,_, and_CC evenly_JJ split_NN ,_, student_NN groups_NNS :_: a_DT privileged_JJ white_JJ elite_NN from_IN old_JJ monied_NN neighborhoods_NNS and_CC blacks_NNS ,_, many_JJ of_IN them_PRP poor_JJ ,_, from_IN run-down_NNP ,_, inner_JJ city_NN neighborhoods_NNS ._.
 Mrs._NNP Ward_VBZ resolved_VBN to_TO clean_VB out_RP ``_`` deadwood_FW ''_'' in_IN the_DT school_NN 's_POS faculty_NN and_CC restore_VB safety_NN ,_, and_CC she_PRP also_RB had_VBD some_DT new_JJ factors_NNS working_VBG in_IN her_PRP$ behalf_NN ._.
-One_NN was_VBD statewide_JJ school_NN reform_NN ,_, which_WDT raised_VBD overall_RB educational_JJ funding_NN and_CC ushered_NN in_IN a_DT new_JJ public_JJ spirit_NN for_IN school_NNP betterment_NNP ._.
+One_PRP was_VBD statewide_JJ school_NN reform_NN ,_, which_WDT raised_VBD overall_RB educational_JJ funding_NN and_CC ushered_NN in_IN a_DT new_JJ public_JJ spirit_NN for_IN school_NNP betterment_NNP ._.
 Another_DT was_VBD Nancy_NNP Yeargin_NNP ,_, who_WP came_VBD to_TO Greenville_VB in_IN 1985_CD ,_, full_JJ of_IN the_DT energy_NN and_CC ambitions_NN that_IN reformers_NNP wanted_VBD to_TO reward_VB ._.
 ``_`` Being_VBG a_DT teacher_NN just_RB became_VBD my_PRP$ life_NN ,_, ''_'' says_VBZ the_DT 37-year-old_NNP Mrs._NNP Yeargin_NNP ,_, a_DT teacher_NN for_IN 12_CD years_NNS before_IN her_PRP$ dismissal_NN ._. ``_``
 I_PRP loved_VBZ the_DT school_NN ,_, its_PRP$ history_NN ._.
@@ -826,10 +826,10 @@ Standardized_NNP achievement_NNP tests_NNS are_VBP given_VBN about_IN 10_CD mill
 The_DT most_RBS widely_RB used_VBN of_IN these_DT tests_NNS are_VBP Macmillan_VBN /_CC McGraw_NNP 's_POS CAT_NN and_CC Comprehensive_JJ Test_NN of_IN Basic_JJ Skills_NNS ;_: the_DT Iowa_NNP Test_NN of_IN Basic_JJ Skills_NNS ,_, by_IN Houghton_NNP Mifflin_NNP Co._NNP ;_: and_CC Harcourt_NNP Brace_NNP Jovanovich_NNP Inc._NNP 's_POS Metropolitan_JJ Achievement_JJ Test_NN and_CC Stanford_JJ Achievement_JJ Test_NN ._.
 Sales_NNS figures_NNS of_IN the_DT test-prep_JJ materials_NNS are_VBP n't_RB known_VBN ,_, but_CC their_PRP$ reach_NN into_IN schools_NNP is_VBZ significant_JJ ._.
 In_IN Arizona_NNP ,_, California_NNP ,_, Florida_NNP ,_, Louisiana_NNP ,_, Maryland_NNP ,_, New_NNP Jersey_NNP ,_, South_NNP Carolina_NNP and_CC Texas_NNP ,_, educators_NNS say_VBP they_PRP are_VBP common_JJ classroom_NN tools_NNS ._.
-Macmillan_NN /_CC McGraw_NNP says_VBZ ``_`` well_RB over_IN 10_CD million_CD ''_'' of_IN its_PRP$ Scoring_JJ High_JJ test-preparation_NN books_NNS have_VBP been_VBN sold_VBN since_IN their_PRP$ introduction_NN 10_CD years_NNS ago_RB ,_, with_IN most_JJS sales_NNS in_IN the_DT last_JJ five_CD years_NNS ._.
+Macmillan_NNP /_CC McGraw_NNP says_VBZ ``_`` well_RB over_IN 10_CD million_CD ''_'' of_IN its_PRP$ Scoring_JJ High_JJ test-preparation_NN books_NNS have_VBP been_VBN sold_VBN since_IN their_PRP$ introduction_NN 10_CD years_NNS ago_RB ,_, with_IN most_JJS sales_NNS in_IN the_DT last_JJ five_CD years_NNS ._.
 About_IN 20,000_CD sets_NNS of_IN Learning_VBG Materials_NNS teachers_NNS '_POS binders_NNS have_VBP also_RB been_VBN sold_VBN in_IN the_DT past_JJ four_CD years_NNS ._.
 The_DT materials_NNS in_IN each_DT set_NN reach_NN about_IN 90_CD students_NNS ._.
-Scoring_JJ High_JJ and_CC Learning_VBG Materials_NNS are_VBP the_DT best-selling_JJ preparation_NN tests_NNS ._.
+Scoring_NNP High_NNP and_CC Learning_VBG Materials_NNS are_VBP the_DT best-selling_JJ preparation_NN tests_NNS ._.
 Michael_NNP Kean_NNP ,_, director_NN of_IN marketing_NN for_IN CTB_NNP Macmillan_NNP /_CC McGraw_NNP ,_, the_DT Macmillan_NN /_CC McGraw_JJ division_NN that_WDT publishes_VBZ Learning_VBG Materials_NNS ,_, says_VBZ it_PRP is_VBZ n't_RB aimed_VBN at_IN improving_VBG test_NN scores_NNS ._.
 He_PRP also_RB asserted_VBD that_DT exact_JJ questions_NNS were_VBD n't_RB replicated_CD ._.
 When_WRB referred_VBD to_TO the_DT questions_NNS that_WDT matched_VBD ,_, he_PRP said_VBD it_PRP was_VBD coincidental_CD ._.
@@ -837,9 +837,9 @@ Mr._NNP Kaminski_NNP ,_, the_DT schoolteacher_NN ,_, and_CC William_NNP Mehrens_
 They_PRP devised_VBZ a_DT 69-point_JJ scale_NN --_: awarding_CD one_CD point_NN for_IN each_DT subskill_NN measured_VBN on_IN the_DT CAT_JJ test_NN --_: to_TO rate_NN the_DT closeness_NN of_IN test_NN preparatives_NN to_TO the_DT fifth-grade_JJ CAT_NN ._.
 Because_IN many_JJ of_IN these_DT subskills_NN --_: the_DT symmetry_NN of_IN geometrical_JJ figures_NNS ,_, metric_JJ measurement_NN of_IN volume_NN ,_, or_CC pie_NN and_CC bar_NNP graphs_NNP ,_, for_IN example_NN --_: are_VBP only_RB a_DT small_JJ part_NN of_IN the_DT total_JJ fifth-grade_JJ curriculum_NN ,_, Mr._NNP Kaminski_NNP says_VBZ ,_, the_DT preparation_JJ kits_NNS would_MD n't_RB replicate_VBN too_RB many_JJ ,_, if_IN their_PRP$ real_JJ intent_NN was_VBD general_JJ instruction_NN or_CC even_RB general_JJ familiarization_NN with_IN test_NN procedures_NNS ._.
 But_CC Learning_VBG Materials_NNS matched_VBN on_IN 66.5_NN of_IN 69_CD subskills_CD ._.
-Scoring_NN High_RB matched_VBN on_IN 64.5_NNP ._.
+Scoring_NNP High_RB matched_VBN on_IN 64.5_NNP ._.
 In_IN CAT_JJ sections_NNS where_WRB students_NNS '_POS knowledge_NN of_IN two-letter_NNP consonant_NNP sounds_VBZ is_VBZ tested_VBN ,_, the_DT authors_NN noted_VBD that_DT Scoring_NN High_RB concentrated_VBN on_IN the_DT same_JJ sounds_NNS that_IN the_DT test_NN does_VBZ --_: to_TO the_DT exclusion_NN of_IN other_JJ sounds_NNS that_IN fifth_NNP graders_NNP should_MD know_VB ._.
-Learning_VBG Materials_NNS for_IN the_DT fifth-grade_JJ contains_NN at_IN least_JJS a_DT dozen_NN examples_NN of_IN exact_JJ matches_NN or_CC close_JJ parallels_NN to_TO test_VB items_NNS ._.
+Learning_NNP Materials_NNS for_IN the_DT fifth-grade_JJ contains_NN at_IN least_JJS a_DT dozen_NN examples_NN of_IN exact_JJ matches_NN or_CC close_JJ parallels_NN to_TO test_VB items_NNS ._.
 Rick_NNP Brownell_NNP ,_, senior_JJ editor_NN of_IN Scoring_JJ High_JJ ,_, says_VBZ that_IN Messrs._NNP Kaminski_NNP and_CC Mehrens_NNS are_VBP ignoring_VBG ``_`` the_DT need_NN students_NNS have_VBP for_IN becoming_VBG familiar_JJ with_IN tests_NNS and_CC testing_VBG format_NNS ._. ''_''
 He_PRP said_VBD authors_VBN of_IN Scoring_JJ High_JJ ``_`` scrupulously_RB avoid_VB ''_'' replicating_VBZ exact_JJ questions_NNS ,_, but_CC he_PRP does_VBZ n't_RB deny_VB that_IN some_DT items_NNS are_VBP similar_JJ ._.
 When_WRB Scoring_JJ High_JJ first_NNP came_VBD out_RP in_IN 1979_CD ,_, it_PRP was_VBD a_DT publication_NN of_IN Random_JJ House_NN ._.
@@ -856,7 +856,7 @@ Medical_JJ researchers_NNS believe_VBP the_DT transplantation_NN of_IN small_JJ 
 But_CC anti-abortionists_NNS oppose_VBP such_JJ research_NN because_IN they_PRP worry_VBP that_IN the_DT development_NN of_IN therapies_NNS using_VBG fetal-tissue_JJ transplants_NNS could_MD lead_VB to_TO an_DT increase_NN in_IN abortions_NNS ._.
 James_NNP Mason_NNP ,_, assistant_JJ secretary_NN for_IN health_NNP ,_, said_VBD the_DT ban_NN on_IN federal_JJ funding_NN of_IN fetal-tissue_NNP transplant_NNP research_NNP ``_`` should_MD be_VB continued_JJ indefinitely_NN ._. ''_''
 He_PRP said_VBD the_DT ban_NN wo_MD n't_RB stop_VB privately_RB funded_VBN tissue-transplant_JJ research_NN or_CC federally_RB funded_VBN fetal-tissue_JJ research_NN that_WDT does_VBZ n't_RB involve_VB transplants_NNS ._.
-Department_NN officials_NNS say_VBP that_IN HHS_NNP Secretary_NNP Louis_NNP Sullivan_NNP will_MD support_VB Dr._NNP Mason_NNP 's_POS ruling_NN ,_, which_WDT will_MD be_VB issued_VBN soon_RB in_IN the_DT form_NN of_IN a_DT letter_NN to_TO the_DT acting_JJ director_NN of_IN the_DT National_JJ Institutes_NN of_IN Health_NN ._.
+Department_NNP officials_NNS say_VBP that_IN HHS_NNP Secretary_NNP Louis_NNP Sullivan_NNP will_MD support_VB Dr._NNP Mason_NNP 's_POS ruling_NN ,_, which_WDT will_MD be_VB issued_VBN soon_RB in_IN the_DT form_NN of_IN a_DT letter_NN to_TO the_DT acting_JJ director_NN of_IN the_DT National_JJ Institutes_NN of_IN Health_NN ._.
 Both_DT Dr._NNP Mason_NNP and_CC Dr._NNP Sullivan_NNP oppose_VBP federal_JJ funding_NN for_IN abortion_NN ,_, as_RB does_VBZ President_NNP Bush_NNP ,_, except_IN in_IN cases_NNS where_WRB a_DT woman_NN 's_POS life_NN is_VBZ threatened_VBN ._.
 The_DT controversy_NN began_VBD in_IN 1987_CD when_WRB the_DT National_JJ Institutes_NN of_IN Health_NNP ,_, aware_JJ of_IN the_DT policy_NN implications_NNS of_IN its_PRP$ research_NN ,_, asked_VBN for_IN an_DT HHS_JJ review_NN of_IN its_PRP$ plan_NN to_TO implant_VB fetal_JJ tissue_NN into_IN the_DT brain_NN of_IN a_DT patient_JJ suffering_NN from_IN Parkinson_NNP 's_POS disease_NN ._.
 The_DT department_NN placed_VBD a_DT moratorium_NN on_IN the_DT research_NN ,_, pending_VBG a_DT review_NN of_IN scientific_NNP ,_, legal_JJ and_CC ethical_JJ issues_NNS ._.
@@ -910,7 +910,7 @@ The_DT two_CD concerns_NNS said_VBD they_PRP entered_VBD into_IN a_DT definitive
 Also_RB on_IN the_DT takeover_NN front_NN ,_, Jaguar_NNP 's_POS ADRs_NN rose_VBD 1\/4_CD to_TO 13_CD 7\/8_CD on_IN turnover_NN of_IN 4.4_CD million_CD ._.
 Since_IN the_DT British_JJ auto_NN maker_NN became_VBD a_DT takeover_NN target_NN last_JJ month_NN ,_, its_PRP$ ADRs_NNS have_VBP jumped_VBD about_IN 78_CD %_NN ._.
 After_IN troubled_JJ Heritage_NN Media_NNS proposed_VBN acquiring_VBG POP_JJ Radio_NN in_IN a_DT stock_NN swap_NN ,_, POP_NNP Radio_NNP 's_POS shares_NNS tumbled_VBD 4_CD to_TO 14_CD 3\/4_CD ._.
-Heritage_JJ Media_NNS ,_, which_WDT already_RB owns_VBZ about_RB 51_CD %_NN of_IN POP_NNP Radio_NNP ,_, proposed_VBN paying_VBG POP_JJ Radio_NN shareholders_NNS with_IN shares_NNS of_IN a_DT new_JJ class_NN of_IN Heritage_JJ Media_NNS preferred_JJ stock_NN that_WDT would_MD be_VB convertible_JJ into_IN four_CD shares_NNS of_IN Heritage_NNP Media_NNP 's_POS common_JJ ._.
+Heritage_NNP Media_NNP ,_, which_WDT already_RB owns_VBZ about_RB 51_CD %_NN of_IN POP_NNP Radio_NNP ,_, proposed_VBN paying_VBG POP_JJ Radio_NN shareholders_NNS with_IN shares_NNS of_IN a_DT new_JJ class_NN of_IN Heritage_JJ Media_NNS preferred_JJ stock_NN that_WDT would_MD be_VB convertible_JJ into_IN four_CD shares_NNS of_IN Heritage_NNP Media_NNP 's_POS common_JJ ._.
 Rally_NN 's_POS lost_VBD 1_CD 3\/4_CD to_TO 21_CD 3\/4_CD ._.
 The_DT restaurant_NN operator_NN said_VBD it_PRP has_VBZ redeemed_VBN its_PRP$ rights_NNS issued_VBD Monday_NNP under_IN its_PRP$ shareholder_NN rights_NNS plan_VBP ._.
 The_DT fast-food_NN company_NN said_VBD its_PRP$ decision_NN was_VBD based_VBN on_IN discussions_NNS with_IN a_DT shareholder_NN group_NN ,_, Giant_NNP Group_NNP Ltd._NNP ,_, ``_`` in_IN an_DT effort_NN to_TO resolve_VB certain_JJ disputes_NNS with_IN the_DT company_NN ._. ''_''
@@ -975,7 +975,7 @@ ABORTION_NN RULING_NN UPHELD_NNS :_:
 A_DT federal_JJ appeals_NNS court_NN upheld_VBZ a_DT lower_JJR court_NN ruling_NN that_IN the_DT U.S._NNP can_MD bar_VB the_DT use_NN of_IN federal_JJ funds_NNS for_IN family-planning_JJ programs_NNS that_WDT include_VBP abortion-related_JJ services_NNS ._.
 A_DT Department_NN of_IN Health_NNP and_CC Human_JJ Services_NNS rule_VBP adopted_VBN in_IN 1988_CD prohibits_CD the_DT use_NN of_IN so-called_JJ Title_NN X_NN funds_NNS for_IN programs_NNS that_WDT assist_VB a_DT woman_NN in_IN obtaining_VBG an_DT abortion_NN ,_, such_JJ as_IN abortion_NN counseling_NN and_CC referrals_NNP ._.
 The_DT rule_NN also_RB prohibits_JJ funding_NN for_IN activities_NNS that_IN ``_`` encourage_VB ,_, promote_VB or_CC advocate_JJ abortion_NN ._. ''_''
-Title_NN X_NN funds_NNS are_VBP the_DT single_JJ largest_JJS source_NN of_IN federal_JJ funding_NN for_IN family-planning_JJ services_NNS ,_, according_VBG to_TO the_DT opinion_NN by_IN the_DT Second_JJ U.S._NNP Circuit_NNP Court_NN of_IN Appeals_NNS in_IN New_NNP York_NNP ._.
+Title_NNP X_NNP funds_NNS are_VBP the_DT single_JJ largest_JJS source_NN of_IN federal_JJ funding_NN for_IN family-planning_JJ services_NNS ,_, according_VBG to_TO the_DT opinion_NN by_IN the_DT Second_JJ U.S._NNP Circuit_NNP Court_NN of_IN Appeals_NNS in_IN New_NNP York_NNP ._.
 The_DT panel_NN ruled_VBD that_IN the_DT restrictions_NNS do_VBP n't_RB violate_VB the_DT freedom_NN of_IN speech_NN of_IN health_NNP care_NNP providers_NNP and_CC that_IN the_DT limits_NNS on_IN counseling_NN services_NNS do_VBP n't_RB violate_VB the_DT rights_NNS of_IN pregnant_JJ women_NNS ._.
 INQUIRY_NN CLEARS_NNP TEXAS_NNP JUDGE_NNP of_IN bias_NN in_IN comments_NNS on_IN homosexual_JJ murder_NN victims_NNS ._.
 Dallas_NNP District_NNP Judge_NNP Jack_NNP Hampton_NNP had_VBD sparked_JJ calls_NNS for_IN a_DT judicial_JJ inquiry_NN with_IN his_PRP$ remarks_NNS to_TO the_DT press_NN last_JJ December_NNP ,_, two_CD weeks_NNS after_IN sentencing_VBG an_DT 18-year-old_JJ defendant_NN to_TO 30_CD years_NNS in_IN state_NN prison_NN for_IN killing_VBG two_CD homosexual_CD men_NNS in_IN a_DT city_NN park_NN ._.
@@ -994,7 +994,7 @@ A_DT former_JJ member_NN of_IN the_DT prosecution_NN team_NN in_IN the_DT Iran_N
 Michael_NNP R._NNP Bromwich_NNP ,_, a_DT member_NN since_IN January_NNP 1987_CD of_IN the_DT three-lawyer_JJ trial_NN team_NN in_IN the_DT prosecution_NN of_IN Oliver_NNP North_NNP ,_, became_VBD a_DT partner_NN in_IN the_DT Washington_NNP ,_, D.C._NNP ,_, office_NN of_IN the_DT 520-lawyer_JJ firm_NN ._.
 He_PRP will_MD specialize_VB in_IN white-collar_JJ criminal_JJ defense_NN work_NN ._.
 Mr._NNP Bromwich_NNP ,_, 35_CD ,_, also_RB has_VBZ served_VBN as_IN deputy_JJ chief_NN and_CC chief_NN of_IN the_DT narcotics_JJ unit_NN for_IN the_DT U.S._NNP attorney_NNP 's_POS office_NN for_IN the_DT Southern_JJ District_NN of_IN New_NNP York_NNP ,_, based_VBN in_IN Manhattan_NNP ._.
-Cooper_JJ Tire_NN &_CC Rubber_NNP Co._NNP said_VBD it_PRP has_VBZ reached_VBN an_DT agreement_NN in_IN principle_NN to_TO buy_VB buildings_NNS and_CC related_JJ property_NN in_IN Albany_NNP ,_, Ga._NNP ,_, from_IN Bridgestone_NNP /_CC Firestone_NNP Inc_NNP ._.
+Cooper_NNP Tire_NNP &_CC Rubber_NNP Co._NNP said_VBD it_PRP has_VBZ reached_VBN an_DT agreement_NN in_IN principle_NN to_TO buy_VB buildings_NNS and_CC related_JJ property_NN in_IN Albany_NNP ,_, Ga._NNP ,_, from_IN Bridgestone_NNP /_CC Firestone_NNP Inc_NNP ._.
 Terms_NNS were_VBD n't_RB disclosed_VBN ._.
 The_DT tire_NN maker_NN said_VBD the_DT buildings_NNS consist_VBN of_IN 1.8_CD million_CD square_JJ feet_NNS of_IN office_NN ,_, manufacturing_NN and_CC warehousing_JJ space_NN on_IN 353_JJ acres_NNS of_IN land_NN ._.
 Fujitsu_NNP Ltd._NNP 's_POS top_JJ executive_NN took_VBD the_DT unusual_JJ step_NN of_IN publicly_RB apologizing_VBN for_IN his_PRP$ company_NN 's_POS making_VBG bids_NNS of_IN just_RB one_CD yen_NN for_IN several_JJ local_JJ government_NN projects_NNS ,_, while_IN computer_NN rival_JJ NEC_NNP Corp._NNP made_VBD a_DT written_JJ apology_NN for_IN indulging_NN in_IN the_DT same_JJ practice_NN ._.
@@ -1026,7 +1026,7 @@ Then_RB Wednesday_NNP ,_, Fujitsu_NNP said_VBD it_PRP made_VBD a_DT similar_JJ b
 It_PRP also_RB said_VBD that_IN in_IN July_NNP ,_, it_PRP bid_VBD 10,000_CD yen_NN to_TO design_VB a_DT system_NN for_IN the_DT Saitama_JJ prefectural_JJ library_NN ,_, and_CC two_CD years_NNS ago_RB ,_, it_PRP bid_VBD one_CD yen_NN to_TO plan_VB the_DT telecommunications_NN system_NN for_IN Wakayama_NNP prefecture_NNP ._.
 The_DT company_NN said_VBD it_PRP has_VBZ offered_VBN to_TO withdraw_VB its_PRP$ bids_NNS in_IN Hiroshima_NNP and_CC Nagano_NNP ._.
 The_DT municipalities_NN said_VBD they_PRP have_VBP n't_RB decided_VBN whether_IN to_TO try_VB to_TO force_VB the_DT company_NN to_TO go_VB through_RP with_IN the_DT contracts_NNS ._.
-Fujitsu_NN and_CC NEC_NNP said_VBD they_PRP were_VBD still_RB investigating_VBG ,_, and_CC that_DT knowledge_NN of_IN more_JJR such_JJ bids_NNS could_MD emerge_VB ._.
+Fujitsu_NNP and_CC NEC_NNP said_VBD they_PRP were_VBD still_RB investigating_VBG ,_, and_CC that_DT knowledge_NN of_IN more_JJR such_JJ bids_NNS could_MD emerge_VB ._.
 Mr._NNP Yamamoto_NNP insisted_VBD that_DT headquarters_NN had_VBD n't_RB approved_VBD the_DT bids_NNS ,_, and_CC that_IN he_PRP did_VBD n't_RB know_VB about_IN most_JJS of_IN the_DT cases_NNS until_IN Wednesday_NNP ._.
 Other_JJ major_JJ Japanese_JJ computer_NN companies_NNS contacted_JJ yesterday_NN said_VBD they_PRP have_VBP never_RB made_VBN such_JJ bids_NNS ._.
 ``_`` One_CD yen_NN is_VBZ not_RB ethical_CD ,_, ''_'' Michio_NNP Sasaki_NNP ,_, an_DT official_NN at_IN Keidanren_NNP ,_, the_DT Japan_NNP Federation_NNP of_IN Economic_JJ Organizations_NNS ,_, said_VBD ._.
@@ -1034,9 +1034,9 @@ Other_JJ major_JJ Japanese_JJ computer_NN companies_NNS contacted_JJ yesterday_N
 PAPERS_NNS :_:
 Backe_NNP Group_NNP Inc._NNP agreed_VBD to_TO acquire_VB Atlantic_NNP Publications_NNP Inc._NNP ,_, which_WDT has_VBZ 30_CD community_NN papers_NNS and_CC annual_JJ sales_NNS of_IN $_$ 7_CD million_CD ._.
 Terms_NNS were_VBD n't_RB disclosed_VBN ._.
-Backe_NN is_VBZ a_DT closely_RB held_VBN media_NNS firm_NN run_VBN by_IN former_JJ CBS_NNP Inc._NNP President_NNP John_NNP Backe_NNP ._.
-TV_NN :_:
-Price_NN Communications_NNP Corp._NNP completed_VBD the_DT sale_NN of_IN four_CD of_IN its_PRP$ TV_NN stations_NNS to_TO NTG_NNP Inc._NNP for_IN $_$ 120_CD million_CD in_IN cash_NN and_CC notes_NNS ,_, retaining_VBG a_DT 10_CD %_NN equity_NN stake_NN in_IN the_DT new_JJ concern_NN ._.
+Backe_NNP is_VBZ a_DT closely_RB held_VBN media_NNS firm_NN run_VBN by_IN former_JJ CBS_NNP Inc._NNP President_NNP John_NNP Backe_NNP ._.
+TV_NNP :_:
+Price_NNP Communications_NNP Corp._NNP completed_VBD the_DT sale_NN of_IN four_CD of_IN its_PRP$ TV_NN stations_NNS to_TO NTG_NNP Inc._NNP for_IN $_$ 120_CD million_CD in_IN cash_NN and_CC notes_NNS ,_, retaining_VBG a_DT 10_CD %_NN equity_NN stake_NN in_IN the_DT new_JJ concern_NN ._.
 NTG_NNP was_VBD formed_VBN by_IN Osborn_NNP Communications_NNP Corp._NNP and_CC Desai_JJ Capital_NN ._.
 Michaels_NNP Stores_NNP Inc._NNP ,_, which_WDT owns_VBZ and_CC operates_VBZ a_DT chain_NN of_IN specialty_JJ retail_JJ stores_NNS ,_, said_VBD October_NNP sales_NNS rose_VBD 14.6_CD %_NN to_TO $_$ 32.8_CD million_CD from_IN $_$ 28.6_CD million_CD a_DT year_NN earlier_RBR ._.
 Sales_NNS in_IN stores_NNS open_VBP more_JJR than_IN one_CD year_NN rose_VBD 3_CD %_NN to_TO $_$ 29.3_CD million_CD from_IN $_$ 28.4_CD million_CD ._.
@@ -1077,7 +1077,7 @@ Jay_NNP Goldinger_NNP ,_, with_IN Capital_NNP Insight_NNP Inc._NNP ,_, reasons_N
 ``_`` Dollar-yen_NNP {_( trade_NNP }_) is_VBZ the_DT driving_NN force_NN in_IN the_DT market_NN ,_, ''_'' said_VBD Tom_NNP Trettien_NNP ,_, a_DT vice_NN president_NN with_IN Banque_NNP Paribas_NNP in_IN New_NNP York_NNP ,_, ``_`` but_CC I_PRP 'm_VBP not_RB convinced_VBN it_PRP will_MD continue_VB ._.
 Who_WP knows_VBZ what_WP will_MD happen_VB down_RP the_DT road_NN ,_, in_IN three_CD to_TO six_CD months_NNS ,_, if_IN foreign_JJ investment_NN starts_VBZ to_TO erode_VB ?_. ''_''
 In_IN late_JJ New_NNP York_NNP trading_NN yesterday_NN ,_, the_DT dollar_NN was_VBD quoted_VBN at_IN 1.8500_JJ marks_NNS ,_, up_RB from_IN 1.8415_JJ marks_NNS late_JJ Tuesday_NNP ,_, and_CC at_IN 143.80_JJ yen_NN ,_, up_RB from_IN 142.85_JJ yen_NN late_JJ Tuesday_NNP ._.
-Sterling_NN was_VBD quoted_VBN at_IN $_$ 1.5755_CD ,_, down_RB from_IN $_$ 1.5805_CD late_JJ Tuesday_NNP ._.
+Sterling_NNP was_VBD quoted_VBN at_IN $_$ 1.5755_CD ,_, down_RB from_IN $_$ 1.5805_CD late_JJ Tuesday_NNP ._.
 In_IN Tokyo_NNP Thursday_NNP ,_, the_DT U.S._NNP currency_NN opened_VBD for_IN trading_NN at_IN 143.93_JJ yen_NN ,_, up_RB from_IN Wednesday_NNP 's_POS Tokyo_NNP close_NN of_IN 143.08_JJ yen_NN ._.
 Douglas_NNP Madison_NNP ,_, a_DT corporate_JJ trader_NN with_IN Bank_NN of_IN America_NNP in_IN Los_NNP Angeles_NNP ,_, traced_VBG the_DT dollar_NN 's_POS recent_JJ solid_JJ performance_NN against_IN the_DT yen_NN to_TO purchases_NNS of_IN securities_NNS by_IN Japanese_JJ insurance_NN companies_NNS and_CC trust_NN banks_NNS and_CC the_DT sense_NN that_IN another_DT wave_NN of_IN investment_NN is_VBZ waiting_VBG in_IN the_DT wings_NN ._.
 He_PRP contends_VBZ that_IN the_DT perception_NN in_IN Japan_NNP of_IN a_DT vitriolic_NNP U.S._NNP response_NN to_TO Sony_NNP Corp._NNP 's_POS announcement_NN of_IN its_PRP$ purchase_NN of_IN Columbia_NNP Pictures_NNP Entertainment_NNP Inc._NNP has_VBZ been_VBN temporarily_RB mollified_CD ._.
@@ -1111,7 +1111,7 @@ Mr._NNP Gillespie_NNP at_IN Viacom_NNP says_VBZ the_DT ratings_NNS are_VBP risin
 And_CC executives_NNS at_IN stations_NNS in_IN such_JJ major_JJ markets_NNS as_IN Washington_NNP ;_: Providence_CD ,_, R.I._NNP ;_: Cleveland_NNP ;_: Raleigh_CD ,_, N.C._NNP ;_: Minneapolis_NNP ,_, and_CC Louisville_NNP ,_, Ky._NNP ,_, say_VBP they_PRP may_MD very_RB well_RB not_RB renew_VB ``_`` Cosby_NN ._. ''_''
 Dick_NNP Lobo_NNP ,_, the_DT general_JJ manager_NN of_IN WTVJ_NNP ,_, the_DT NBC-owned_JJ station_NN in_IN Miami_NNP ,_, for_IN example_NN ,_, says_VBZ the_DT show_NN has_VBZ ``_`` been_VBN a_DT major_JJ disappointment_NN to_TO us_PRP ._. ''_''
 ``_`` At_IN the_DT prices_NNS we_PRP were_VBD charged_VBN ,_, there_EX should_MD have_VB been_VBN some_DT return_NN for_IN the_DT dollar_NN ._.
-There_RB was_VBD n't_RB ._. ''_''
+There_EX was_VBD n't_RB ._. ''_''
 Neil_NNP Kuvin_NNP ,_, the_DT general_JJ manager_NN of_IN WHAS_NNP ,_, the_DT CBS_NNP affiliate_NN in_IN Louisville_NNP ,_, says_VBZ ``_`` Cosby_FW ''_'' gets_VBZ the_DT station_NN 's_POS highest_JJS ratings_NNS and_CC he_PRP 's_VBZ ``_`` pleased_JJ ._. ''_''
 But_CC he_PRP adds_VBZ ,_, ``_`` I_PRP feel_VBP pressured_RB ,_, disappointed_VBN ,_, uncomfortable_NNP and_CC ,_, frankly_NNP ,_, quite_RB angry_JJ with_IN Viacom_NNP ._.
 The_DT Life_NNP Insurance_NNP Co._NNP of_IN Georgia_NNP has_VBZ officially_RB opened_VBD an_DT office_NN in_IN Taipei_NNP ._.
@@ -1119,7 +1119,7 @@ David_NNP Wu_NNP ,_, the_DT company_NN 's_POS representative_NN in_IN Taiwan_NNP
 Life_NN of_IN Georgia_NNP is_VBZ part_NN of_IN the_DT Nationale_NNP Nederlanden_NNP Group_NNP ,_, based_VBN in_IN the_DT Netherlands_NNP ._.
 In_IN this_DT era_NN of_IN frantic_JJ competition_NN for_IN ad_NN dollars_NNS ,_, a_DT lot_NN of_IN revenue-desperate_JJ magazines_NNS are_VBP getting_VBG pretty_RB cozy_VBN with_IN advertisers_NNS --_: fawning_CD over_IN them_PRP in_IN articles_NNS and_CC offering_NN pages_NNS of_IN advertorial_JJ space_NN ._.
 So_RB can_MD a_DT magazine_NN survive_VBP by_IN downright_NNP thumbing_VBD its_PRP$ nose_NN at_IN major_JJ advertisers_NNS ?_.
-Garbage_JJ magazine_NN ,_, billed_VBG as_IN ``_`` The_DT Practical_JJ Journal_NN for_IN the_DT Environment_NN ,_, ''_'' is_VBZ about_RB to_TO find_VB out_RP ._.
+Garbage_NNP magazine_NNP ,_, billed_VBG as_IN ``_`` The_DT Practical_JJ Journal_NN for_IN the_DT Environment_NN ,_, ''_'' is_VBZ about_RB to_TO find_VB out_RP ._.
 Founded_VBN by_IN Brooklyn_NNP ,_, N.Y._NNP ,_, publishing_VBG entrepreneur_NN Patricia_NNP Poore_NNP ,_, Garbage_NNP made_VBD its_PRP$ debut_NN this_DT fall_NN with_IN the_DT promise_NN to_TO give_VB consumers_NNS the_DT straight_JJ scoop_NN on_IN the_DT U.S._NNP waste_NN crisis_NN ._.
 The_DT magazine_NN combines_VBZ how-to_JJ pieces_NNS on_IN topics_NN like_IN backyard_NNP composting_NNP ,_, explanatory_JJ essays_NN on_IN such_JJ things_NNS as_IN what_WP happens_VBZ after_IN you_PRP flush_VBD your_PRP$ toilet_NN ,_, and_CC hard-hitting_JJ pieces_NNS on_IN alleged_JJ environmental_JJ offenders_NN ._.
 Garbage_JJ editors_NNS have_VBP dumped_VBN considerable_JJ energy_NN into_IN a_DT whirling_JJ rampage_NN through_IN supermarket_NN aisles_NN in_IN a_DT bid_NN to_TO identify_VB corporate_JJ America_NNP 's_POS good_JJ guys_NNS and_CC bad_JJ boys_NNS ._.
@@ -1165,7 +1165,7 @@ Enterprise_NNP Rent-A-Car_NNP Inc._NNP breaks_VBZ its_PRP$ first_JJ national_JJ 
 The_DT St._NNP Louis_NNP firm_NN specializes_VBZ in_IN replacement-car_NNP rentals_NNP ,_, those_DT provided_VBN by_IN insurance_NN companies_NNS for_IN cars_NNS damaged_VBN in_IN accidents_NNP ._.
 Developed_VBN by_IN Avrett_NNP ,_, Free_JJ &_CC Ginsberg_NNP ,_, New_NNP York_NNP ,_, the_DT $_$ 6_CD million_CD campaign_NN pitches_NN Enterprise_NN 's_POS consumer-driven_JJ service_NN and_CC its_PRP$ free_JJ pick-up_NN and_CC drop-off_JJ service_NN ._.
 LANDOR_NNP ASSOCIATES_NNPS :_:
-Young_JJ &_CC Rubicam_NNP said_VBD it_PRP completed_VBD its_PRP$ acquisition_NN of_IN Landor_NNP Associates_NNPS ,_, a_DT San_NNP Francisco_NNP identity-management_NNP firm_NN ._.
+Young_NNP &_CC Rubicam_NNP said_VBD it_PRP completed_VBD its_PRP$ acquisition_NN of_IN Landor_NNP Associates_NNPS ,_, a_DT San_NNP Francisco_NNP identity-management_NNP firm_NN ._.
 ACQUISITION_NN :_:
 Ketchum_NNP Communications_NNPS ,_, Pittsburgh_NNP ,_, acquired_VBD Braun_NNP &_CC Co._NNP ,_, a_DT Los_NNP Angeles_NNP investor-relations_NNP and_CC marketing-communications_JJ firm_NN ._.
 Terms_NNS were_VBD n't_RB disclosed_VBN ._.
@@ -1185,7 +1185,7 @@ A_DT spokesman_NN for_IN Temple_NNP estimated_VBD that_IN Sea_NNP Containers_NNP
 The_DT lower_JJR figures_NNS ,_, the_DT spokesman_NN said_VBD ,_, would_MD stem_VB from_IN preferred_JJ shares_NNS being_VBG converted_VBN to_TO common_JJ stock_NN and_CC the_DT possibility_NN that_IN Sea_NNP Containers_NNP '_POS subsidiaries_NNS might_MD be_VB required_VBN to_TO place_VB their_PRP$ shares_NNS in_IN the_DT open_JJ market_NN ._.
 Temple_NNP added_VBD that_IN Sea_NNP Containers_NNP is_VBZ still_RB mired_VBN in_IN legal_JJ problems_NNS in_IN Bermuda_NNP ,_, where_WRB the_DT Supreme_NNP Court_NNP has_VBZ temporarily_RB barred_JJ Sea_NN Containers_NN from_IN buying_VBG back_RP its_PRP$ own_JJ stock_NN in_IN a_DT case_NN brought_VBN by_IN Stena_NNP and_CC Tiphook_NNP ._.
 {_( The_DT court_NN has_VBZ indicated_VBN it_PRP will_MD rule_VB on_IN the_DT case_NN by_IN the_DT end_NN of_IN the_DT month_NN ._. }_)
-Temple_NN also_RB said_VBD Sea_NNP Containers_NNP '_POS plan_NN raises_VBZ ``_`` numerous_JJ legal_JJ ,_, regulatory_JJ ,_, financial_NNP and_CC fairness_JJ issues_NNS ,_, ''_'' but_CC did_VBD n't_RB elaborate_VB ._.
+Temple_NNP also_RB said_VBD Sea_NNP Containers_NNP '_POS plan_NN raises_VBZ ``_`` numerous_JJ legal_JJ ,_, regulatory_JJ ,_, financial_NNP and_CC fairness_JJ issues_NNS ,_, ''_'' but_CC did_VBD n't_RB elaborate_VB ._.
 Mr._NNP Sherwood_NNP said_VBD reaction_NN to_TO Sea_NNP Containers_NNP '_POS proposal_NN has_VBZ been_VBN ``_`` very_RB positive_JJ ._. ''_''
 In_IN New_NNP York_NNP Stock_NNP Exchange_NNP composite_JJ trading_NN yesterday_NN ,_, Sea_NNP Containers_NNP closed_VBD at_IN $_$ 62.625_CD ,_, up_RB 62.5_CD cents_NNS ._.
 The_DT Transportation_NNP Department_NNP ,_, responding_VBG to_TO pressure_VB from_IN safety_NN advocates_NNS ,_, took_VBD further_JJ steps_NNS to_TO impose_VB on_IN light_JJ trucks_NNS and_CC vans_VBG the_DT safety_NN requirements_NNS used_VBN for_IN automobiles_NNP ._.
@@ -1258,7 +1258,7 @@ Chateau_NNP Yquem_NNP ,_, the_DT leading_JJ Sauternes_NN ,_, now_RB goes_VBZ for
 In_IN Champagne_NNP ,_, some_DT of_IN the_DT prestige_JJ cuvees_NNS are_VBP inching_VBN toward_IN $_$ 100_CD a_DT bottle_NN ._.
 The_DT first_JJ Champagne_NN to_TO crack_VB that_DT price_NN barrier_NN was_VBD the_DT 1979_CD Salon_FW de_FW Mesnil_FW Blanc_FW de_FW Blancs_FW ._.
 The_DT '82_JJ Salon_NN is_VBZ $_$ 115_CD ._.
-Roederer_JJ Cristal_NN at_IN $_$ 90_CD a_DT bottle_NN sells_VBZ out_RP around_IN the_DT country_NN and_CC Taittinger_NNP 's_POS Comtes_FW de_FW Champagne_FW Blanc_FW de_FW Blancs_FW is_VBZ encroaching_VBN upon_IN that_DT level_NN ._.
+Roederer_NNP Cristal_NNP at_IN $_$ 90_CD a_DT bottle_NN sells_VBZ out_RP around_IN the_DT country_NN and_CC Taittinger_NNP 's_POS Comtes_FW de_FW Champagne_FW Blanc_FW de_FW Blancs_FW is_VBZ encroaching_VBN upon_IN that_DT level_NN ._.
 The_DT great_JJ reds_NN of_IN the_DT Rhone_NNP Valley_NNP have_VBP soared_VBN in_IN price_NN as_IN well_RB ._.
 E._NNP Guigal_NNP 's_POS 1982_CD Cote_NNP Rotie_NNP La_NNP Landonne_NNP ,_, for_IN example_NN ,_, is_VBZ $_$ 120_CD ._.
 None_NN of_IN France_NNP 's_POS wine_NN regions_NNS can_MD steal_VB a_DT march_NN on_IN Burgundy_NNP ,_, however_RB ._.
@@ -1285,7 +1285,7 @@ Even_RB if_IN there_EX is_VBZ consumer_NN resistance_NN at_IN first_NNP ,_, a_DT
 ``_`` It_PRP 's_VBZ just_RB sort_VB of_IN a_DT one-upsmanship_JJ thing_NN with_IN some_DT people_NNS ,_, ''_'' added_VBD Larry_NNP Shapiro_NNP ._.
 ``_`` They_PRP like_VBP to_TO talk_VB about_IN having_VBG the_DT new_NNP Red_NNP Rock_NNP Terrace_NNP {_( one_CD of_IN Diamond_NNP Creek_NNP 's_POS Cabernets_NN }_) or_CC the_DT Dunn_CD 1985_CD Cabernet_CD ,_, or_CC the_DT Petrus_NN ._.
 Producers_NNS have_VBP seen_VBN this_DT market_NN opening_VBG up_RP and_CC they_PRP 're_VBP now_RB creating_VBG wines_NN that_IN appeal_NN to_TO these_DT people_NNS ._. ''_''
-That_WDT explains_VBZ why_WRB the_DT number_NN of_IN these_DT wines_NN is_VBZ expanding_VBG so_RB rapidly_RB ._.
+That_DT explains_VBZ why_WRB the_DT number_NN of_IN these_DT wines_NN is_VBZ expanding_VBG so_RB rapidly_RB ._.
 But_CC consumers_NNS who_WP buy_VBP at_IN this_DT level_NN are_VBP also_RB more_JJR knowledgeable_NN than_IN they_PRP were_VBD a_DT few_JJ years_NNS ago_RB ._.
 ``_`` They_PRP wo_MD n't_RB buy_VB if_IN the_DT quality_NN is_VBZ not_RB there_RB ,_, ''_'' said_VBD Cedric_NNP Martin_NNP of_IN Martin_NNP Wine_NNP Cellar_NNP in_IN New_JJ Orleans_NN ._.
 ``_`` Or_CC if_IN they_PRP feel_VBP the_DT wine_NN is_VBZ overpriced_NNP and_CC they_PRP can_MD get_VB something_NN equally_RB good_JJ for_IN less_JJR ._. ''_''
@@ -1317,7 +1317,7 @@ As_IN a_DT result_NN ,_, Fed_NNP officials_NNS may_MD be_VB divided_VBN over_RP 
 Several_JJ Fed_NNP governors_NNP in_IN Washington_NNP have_VBP been_VBN pushing_VBG for_IN easier_JJR credit_NN ;_: but_CC many_JJ of_IN the_DT regional_JJ Fed_NNP presidents_NNS have_VBP been_VBN resisting_VBG such_PDT a_DT move_NN ._.
 Mr._NNP Black_NNP said_VBD he_PRP is_VBZ ``_`` pleased_JJ ''_'' with_IN the_DT economy_NN 's_POS recent_JJ performance_NN ,_, and_CC does_VBZ n't_RB see_VB ``_`` a_DT lot_NN of_IN excesses_VBG out_RP there_EX that_WDT would_MD tilt_VB us_PRP into_IN recession_NN ._. ''_''
 ``_`` There_EX is_VBZ always_RB a_DT chance_NN of_IN recession_NN ,_, ''_'' added_VBD Mr._NNP Guffey_NNP ,_, ``_`` but_CC if_IN you_PRP ask_VBP me_PRP to_TO put_VB a_DT percentage_NN on_IN it_PRP ,_, I_PRP would_MD think_VB it_PRP 's_VBZ well_RB below_IN a_DT 50_CD %_NN chance_NN ._.
-Integra-A_JJ Hotel_NN &_CC Restaurant_NNP Co._NNP said_VBD its_PRP$ planned_JJ rights_NNS offering_VBG to_TO raise_VB about_IN $_$ 9_CD million_CD was_VBD declared_VBN effective_JJ and_CC the_DT company_NN will_MD begin_VB mailing_JJ materials_NNS to_TO shareholders_NNS at_IN the_DT end_NN of_IN this_DT week_NN ._.
+Integra-A_NNP Hotel_NNP &_CC Restaurant_NNP Co._NNP said_VBD its_PRP$ planned_JJ rights_NNS offering_VBG to_TO raise_VB about_IN $_$ 9_CD million_CD was_VBD declared_VBN effective_JJ and_CC the_DT company_NN will_MD begin_VB mailing_JJ materials_NNS to_TO shareholders_NNS at_IN the_DT end_NN of_IN this_DT week_NN ._.
 Under_IN the_DT offer_NN ,_, shareholders_NNS will_MD receive_VB one_CD right_NN for_IN each_DT 105_CD common_JJ shares_NNS owned_VBN ._.
 Each_DT right_NN entitles_VBZ the_DT shareholder_NN to_TO buy_VB $_$ 100_CD face_NN amount_NN of_IN 13.5_JJ %_NN bonds_NNS due_JJ 1993_CD and_CC warrants_NNS to_TO buy_VB 23.5_JJ common_JJ shares_NNS at_IN 30_CD cents_NNS a_DT share_NN ._.
 The_DT rights_NNS ,_, which_WDT expire_VBP Nov._NNP 21_CD ,_, can_MD be_VB exercised_VBN for_IN $_$ 100_CD each_DT ._.
@@ -1344,7 +1344,7 @@ The_DT Treasury_NNP also_RB said_VBD it_PRP plans_VBZ to_TO sell_VB $_$ 10_CD bi
 They_PRP will_MD mature_VB Dec._NNP 21_CD ._.
 None_NN of_IN the_DT securities_NNS will_MD be_VB eligible_JJ for_IN when-issued_JJ trading_NN until_IN Congress_NNP approves_VBD an_DT increase_NN in_IN the_DT debt_NN ceiling_NN ,_, clearing_VBG the_DT way_NN for_IN a_DT formal_JJ offering_NN ,_, Mr._NNP Basham_NNP said_VBD ._.
 The_DT Treasury_NNP said_VBD it_PRP needs_VBZ to_TO raise_VB $_$ 47.5_CD billion_CD in_IN the_DT current_JJ quarter_NN in_IN order_NN to_TO end_VB December_NNP with_IN a_DT $_$ 20_CD billion_CD cash_NN balance_NN ._.
-Auctions_NN held_VBN in_IN October_NNP and_CC those_DT scheduled_VBN for_IN next_JJ week_NN will_MD raise_VB a_DT total_NN of_IN $_$ 25.6_CD billion_CD ._.
+Auctions_NNP held_VBD in_IN October_NNP and_CC those_DT scheduled_VBN for_IN next_JJ week_NN will_MD raise_VB a_DT total_NN of_IN $_$ 25.6_CD billion_CD ._.
 The_DT remaining_VBG $_$ 21.9_CD billion_CD could_MD be_VB raised_VBN through_IN the_DT sale_NN of_IN short-term_JJ Treasury_NN bills_NNS ,_, two-year_JJ notes_NNS in_IN November_NNP and_CC five-year_JJ notes_NNS in_IN early_JJ December_NNP ,_, the_DT Treasury_NNP said_VBD ._.
 In_IN the_DT first_JJ three_CD months_NNS of_IN 1990_CD ,_, the_DT Treasury_NNP estimates_NNS that_IN it_PRP will_MD have_VB to_TO raise_VB between_IN $_$ 45_CD billion_CD and_CC $_$ 50_CD billion_CD ,_, assuming_VBG that_IN it_PRP decides_VBZ to_TO aim_VB for_IN a_DT $_$ 10_CD billion_CD cash_NN balance_NN at_IN the_DT end_NN of_IN March_NNP ._.
 Lancaster_NNP Colony_NNP Corp._NNP said_VBD it_PRP acquired_VBD Reames_NNP Foods_NNPS Inc._NNP in_IN a_DT cash_NN transaction_NN ._.
@@ -1388,7 +1388,7 @@ Analysts_NNS saw_VBD the_DT latest_JJS offer_NN as_IN proof_NN that_IN Mr._NNP S
 ``_`` He_PRP appears_VBZ to_TO be_VB in_IN it_PRP for_IN the_DT long_JJ haul_NN ._. ''_''
 Mr._NNP Simmons_NNP and_CC NL_NNS already_RB own_VB a_DT 9.9_CD %_NN stake_NN in_IN Georgia_NNP Gulf_NNP ._.
 Mr._NNP Simmons_NNP owns_VBZ 88_CD %_NN of_IN Valhi_NNP Inc._NNP ,_, which_WDT in_IN turn_NN owns_VBZ two-thirds_NNS of_IN NL_NNP ._.
-NL_NN is_VBZ officially_RB making_VBG the_DT offer_NN ._.
+NL_NNP is_VBZ officially_RB making_VBG the_DT offer_NN ._.
 Mr._NNP Leming_NNP was_VBD n't_RB surprised_VBN by_IN the_DT lower_JJR price_NN cited_VBD by_IN NL_NNP ,_, saying_VBG he_PRP believes_VBZ that_IN $_$ 55_CD a_DT share_NN is_VBZ ``_`` the_DT most_JJS you_PRP can_MD pay_VB for_IN Georgia_NNP Gulf_NNP before_IN it_PRP becomes_VBZ a_DT bad_JJ acquisition_NN ._. ''_''
 Georgia_NNP Gulf_NNP stock_NNP rose_VBD $_$ 1.75_CD a_DT share_NN yesterday_NN to_TO close_VB at_IN $_$ 51.25_CD a_DT share_NN ,_, while_IN NL_JJ shares_NNS closed_VBD unchanged_JJ at_IN $_$ 22.75_CD and_CC Valhi_NNP rose_VBD 62.5_CD cents_NNS to_TO $_$ 15_CD ,_, all_DT in_IN New_NNP York_NNP Stock_NNP Exchange_NNP composite_JJ trading_NN ._.
 J._NNP Landis_NNP Martin_NNP ,_, NL_JJ president_NN and_CC chief_JJ executive_NN officer_NN ,_, said_VBD NL_NNP and_CC Mr._NNP Simmons_NNP cut_VBD the_DT price_NN they_PRP were_VBD proposing_VBG for_IN Georgia_NNP Gulf_NNP because_IN they_PRP initially_RB planned_VBN a_DT transaction_NN that_WDT included_VBD about_IN $_$ 250_CD million_CD in_IN equity_NN and_CC a_DT substantial_JJ amount_NN of_IN high-yield_JJ subordinated_JJ debt_NN ._.
@@ -1425,7 +1425,7 @@ Fears_NNS that_IN Japanese_JJ investors_NNS are_VBP buying_VBG up_RP America_NNP
 Even_RB before_IN those_DT moves_NNS added_VBD fuel_NN ,_, the_DT fires_NNS of_IN discontent_NNP had_VBD been_VBN well_RB stoked_VBN by_IN the_DT highly_RB publicized_JJ experience_NN in_IN Japan_NNP of_IN one_CD U.S._NNP investor_NN ,_, T._NNP Boone_NNP Pickens_NNP Jr_NNP ._.
 The_DT Texas_NNP oilman_NNP has_VBZ acquired_VBN a_DT 26.2_JJ %_NN stake_NN valued_VBN at_IN more_JJR than_IN $_$ 1.2_CD billion_CD in_IN an_DT automotive-lighting_JJ company_NN ,_, Koito_NNP Manufacturing_NNP Co_NNP ._.
 But_CC he_PRP has_VBZ failed_VBN to_TO gain_VB any_DT influence_NN at_IN the_DT company_NN ._.
-Koito_NN has_VBZ refused_VBN to_TO grant_VB Mr._NNP Pickens_NNP seats_NNS on_IN its_PRP$ board_NN ,_, asserting_VBG he_PRP is_VBZ a_DT greenmailer_NN trying_VBG to_TO pressure_VB Koito_NNP 's_POS other_JJ shareholders_NNS into_IN buying_VBG him_PRP out_RP at_IN a_DT profit_NN ._.
+Koito_NNP has_VBZ refused_VBN to_TO grant_VB Mr._NNP Pickens_NNP seats_NNS on_IN its_PRP$ board_NN ,_, asserting_VBG he_PRP is_VBZ a_DT greenmailer_NN trying_VBG to_TO pressure_VB Koito_NNP 's_POS other_JJ shareholders_NNS into_IN buying_VBG him_PRP out_RP at_IN a_DT profit_NN ._.
 Mr._NNP Pickens_NNP made_VBD considerable_JJ political_JJ hay_NN with_IN his_PRP$ troubles_NNS in_IN Japan_NNP ._.
 The_DT Senate_NNP Finance_NNP Committee_NNP ,_, chaired_VBG by_IN a_DT fellow_JJ Texan_NN ,_, Democratic_NNP Sen._NNP Lloyd_NNP Bentsen_NNP ,_, last_JJ month_NN urged_VBD U.S._NNP Trade_NNP Representative_NNP Carla_NNP Hills_NNPS to_TO use_VB Mr._NNP Pickens_NNP 's_POS experience_NN in_IN talks_NNS with_IN Tokyo_NNP ``_`` to_TO highlight_VB this_DT problem_NN facing_VBG Americans_NNPS who_WP seek_VBP access_NN to_TO the_DT Japanese_JJ capital_NN markets_NNS ._. ''_''
 While_IN Mr._NNP Dallara_NNP and_CC Japanese_JJ officials_NNS say_VBP the_DT question_NN of_IN investors_NNS '_POS access_NN to_TO the_DT U.S._NNP and_CC Japanese_JJ markets_NNS may_MD get_VB a_DT disproportionate_JJ share_NN of_IN the_DT public_NN 's_POS attention_NN ,_, a_DT number_NN of_IN other_JJ important_JJ economic_JJ issues_NNS will_MD be_VB on_IN the_DT table_NN at_IN next_JJ week_NN 's_POS talks_NNS ._.
@@ -1478,7 +1478,7 @@ Trading_NN companies_NNS such_JJ as_IN Mitsubishi_NNP ,_, Mitsui_NNP ,_, C._NNP 
 These_DT vertically_NNP integrated_NNP combines_NNP ,_, some_DT of_IN which_WDT got_VBD their_PRP$ start_NN in_IN Japan_NNP 's_POS feudal_JJ period_NN ,_, deal_NN globally_NN in_IN commodities_NNS ,_, construction_NN and_CC manufacturing_NN ._.
 They_PRP operate_VBP ships_NNS and_CC banks_NNS ._.
 ``_`` All_PDT the_DT ``_`` sogo-shosha_FW ''_'' are_VBP looking_VBG for_IN new_JJ business_NN ,_, ''_'' says_VBZ Arthur_NNP Klauser_NNP ,_, adviser_NN to_TO the_DT president_NN of_IN Mitsui_NNP ,_, U.S.A._NNP ,_, using_VBG the_DT Japanese_JJ term_NN for_IN the_DT largest_JJS of_IN the_DT global_JJ trading_NN houses_NNS ._.
-Adds_VBZ Takeshi_NNP Kondo_NNP ,_, senior_JJ vice_NN president_NN of_IN C._NNP Itoh_NNP America_NNP Inc._NNP :_: ``_`` We_PRP have_VBP a_DT great_JJ interest_NN in_IN making_VBG investments_NNS ,_, particularly_RB in_IN new_JJ ventures_NNS ._. ''_''
+Adds_NNP Takeshi_NNP Kondo_NNP ,_, senior_JJ vice_NN president_NN of_IN C._NNP Itoh_NNP America_NNP Inc._NNP :_: ``_`` We_PRP have_VBP a_DT great_JJ interest_NN in_IN making_VBG investments_NNS ,_, particularly_RB in_IN new_JJ ventures_NNS ._. ''_''
 A_DT host_NN of_IN electronics_NN firms_NNS in_IN California_NNP 's_POS Silicon_NNP Valley_NNP were_VBD financed_VBN with_IN trading-company_JJ venture_NN capital_NN ._.
 Profit_NN ,_, at_IN least_JJS in_IN the_DT short_JJ term_NN ,_, is_VBZ usually_RB a_DT secondary_JJ goal_NN ._.
 ``_`` Strategic_JJ objectives_NNS ,_, not_RB financial_JJ return_NN ,_, drive_VB many_JJ of_IN the_DT deals_NNS ,_, ''_'' says_VBZ a_DT Venture_NN Economics_NNS spokesman_NN ._.
@@ -1486,7 +1486,7 @@ In_IN investing_VBG on_IN the_DT basis_NN of_IN future_JJ transactions_NNS ,_, a
 ``_`` It_PRP 's_VBZ the_DT classic_JJ problem_NN of_IN the_DT small_JJ businessman_NN ,_, ''_'' says_VBZ Malcolm_NNP Davies_NNP ,_, managing_VBG director_NN of_IN Trading_NN Alliance_NNP Corp._NNP of_IN New_NNP York_NNP ._.
 ``_`` People_NNS are_VBP queuing_VBN at_IN the_DT door_NN to_TO take_VB his_PRP$ product_NN but_CC he_PRP does_VBZ n't_RB have_VB the_DT working_VBG capital_NN to_TO make_VB the_DT thing_NN and_CC commercial_JJ banks_NNS are_VBP very_RB unsympathetic_CD ._.
 They_PRP want_VBP assets_NNS ,_, they_PRP want_VBP a_DT balance_NN sheet_NN ,_, which_WDT has_VBZ no_DT relation_NN to_TO the_DT business_NN a_DT company_NN can_MD generate_VB ._. ''_''
-Adds_VBZ Mitsui_NNP 's_POS Mr._NNP Klauser_NNP :_: ``_`` Unlike_IN corporations_NNS in_IN this_DT country_NN ,_, trading_NN companies_NNS are_VBP n't_RB so_RB much_RB interested_VBN in_IN a_DT high_JJ return_NN on_IN investment_NN as_IN they_PRP are_VBP on_IN increasing_VBG trade_NN flows_NNS ._.
+Adds_NNP Mitsui_NNP 's_POS Mr._NNP Klauser_NNP :_: ``_`` Unlike_IN corporations_NNS in_IN this_DT country_NN ,_, trading_NN companies_NNS are_VBP n't_RB so_RB much_RB interested_VBN in_IN a_DT high_JJ return_NN on_IN investment_NN as_IN they_PRP are_VBP on_IN increasing_VBG trade_NN flows_NNS ._.
 To_TO the_DT extent_NN they_PRP can_MD do_VB this_DT ,_, they_PRP 're_VBP quite_RB content_VBN to_TO get_VB a_DT return_NN on_IN investment_NN of_IN 1_CD %_NN to_TO 2_CD %_NN ._. ''_''
 Mr._NNP Klauser_NNP says_VBZ Mitsui_NNP has_VBZ 75_CD U.S._NNP subsidiaries_NNS in_IN which_WDT it_PRP holds_VBZ 35_CD %_NN interest_NN or_CC more_JJR and_CC the_DT trading_NN company_NN hopes_VBZ to_TO double_VB the_DT number_NN of_IN its_PRP$ U.S._NNP affiliates_NNS in_IN 1990_CD ._.
 Sales_NNS by_IN these_DT subsidiaries_NNS in_IN the_DT fiscal_JJ year_NN ending_VBG last_JJ March_NNP were_VBD more_JJR than_IN $_$ 17_CD billion_CD ._.
@@ -1528,7 +1528,7 @@ Many_JJ banks_NNS ,_, particularly_RB smaller_JJR ones_NNS ,_, were_VBD slow_JJ 
 As_IN banks_NNS '_POS earnings_NNS were_VBD squeezed_VBN in_IN the_DT mid-1970s_NN ,_, the_DT emphasis_NN switched_NN to_TO finding_VBG ways_NNS to_TO cut_VB costs_NNS ._.
 But_CC now_RB computers_NNS are_VBP enabling_VBG more_JJR banks_NNS to_TO analyze_VB their_PRP$ customers_NNS by_IN age_NN ,_, income_NN and_CC geography_NNP ._.
 They_PRP are_VBP better_RBR able_JJ to_TO get_VB to_TO those_DT segments_NNS in_IN the_DT wake_NN of_IN the_DT deregulation_NN that_WDT began_VBD in_IN the_DT late_JJ 1970s_NNS ._.
-Deregulation_NN has_VBZ effectively_RB removed_VBN all_DT restrictions_NNS on_IN what_WP banks_NNS can_MD pay_VB for_IN deposits_NNS ,_, as_RB well_RB as_RB opened_VBN up_RP the_DT field_NN for_IN new_JJ products_NNS such_JJ as_IN high-rate_NNP CDs_NNPS ._.
+Deregulation_NNP has_VBZ effectively_RB removed_VBN all_DT restrictions_NNS on_IN what_WP banks_NNS can_MD pay_VB for_IN deposits_NNS ,_, as_RB well_RB as_RB opened_VBN up_RP the_DT field_NN for_IN new_JJ products_NNS such_JJ as_IN high-rate_NNP CDs_NNPS ._.
 Where_WRB a_DT bank_NN once_RB offered_VBN a_DT standard_NNP passbook_NNP savings_NNP account_NN ,_, it_PRP began_VBD offering_VBG money-market_JJ accounts_NNS ,_, certificates_NNS of_IN deposit_NN and_CC interest-bearing_NNP checking_NNP ,_, and_CC staggering_JJ rates_NNS based_VBN on_IN the_DT size_NN of_IN deposits_NNS ._.
 The_DT competition_NN has_VBZ grown_VBN more_RBR intense_JJ as_IN bigger_JJR banks_NNS such_JJ as_IN Norwest_NNP Corp._NNP of_IN Minneapolis_NNP and_CC Chemical_NNP Banking_NNP Corp._NNP of_IN New_NNP York_NNP extend_VB their_PRP$ market-share_JJ battles_NN into_IN small_JJ towns_NN across_IN the_DT nation_NN ._.
 ``_`` Today_NN ,_, a_DT banker_NN is_VBZ worrying_VBN about_IN local_JJ ,_, regional_JJ and_CC money-center_NNP {_( banks_NNS }_) ,_, as_RB well_RB as_IN thrifts_NNS and_CC credit_NN unions_NNS ,_, ''_'' says_VBZ Ms._NNP Moore_NNP at_IN Synergistics_JJ Research_NN ._.
@@ -1539,7 +1539,7 @@ The_DT competition_NN has_VBZ cultivated_VBG a_DT much_JJ savvier_JJ consumer_NN
 Packages_NNS encourage_VBP loyalty_NN by_IN rewarding_JJ customers_NNS for_IN doing_VBG the_DT bulk_NN of_IN their_PRP$ banking_NN in_IN one_CD place_NN ._.
 For_IN their_PRP$ troubles_NNS ,_, the_DT banks_NNS get_VBP a_DT larger_JJR captive_JJ audience_NN that_WDT is_VBZ less_RBR likely_JJ to_TO move_VB at_IN the_DT drop_NN of_IN a_DT rate_NN ._.
 The_DT more_JJR accounts_NNS customers_NNS have_VBP ,_, Mr._NNP Sullivan_NNP says_VBZ ,_, the_DT more_RBR likely_JJ they_PRP are_VBP to_TO be_VB attracted_VBN to_TO a_DT package_NN --_: and_CC to_TO be_VB loyal_JJ to_TO the_DT bank_NN that_WDT offers_VBZ it_PRP ._.
-That_WDT can_MD pay_VB off_RP down_IN the_DT road_NN as_IN customers_NNS ,_, especially_RB the_DT younger_JJR ones_NNS ,_, change_NN from_IN borrowers_NNS to_TO savers_VB /_CC investors_NNS ._.
+That_DT can_MD pay_VB off_RP down_IN the_DT road_NN as_IN customers_NNS ,_, especially_RB the_DT younger_JJR ones_NNS ,_, change_NN from_IN borrowers_NNS to_TO savers_VB /_CC investors_NNS ._.
 Packaging_NN has_VBZ some_DT drawbacks_NN ._.
 The_DT additional_JJ technology_NN ,_, personnel_NNS training_NN and_CC promotional_JJ effort_NN can_MD be_VB expensive_JJ ._.
 Chemical_NNP Bank_NNP spent_VBD more_JJR than_IN $_$ 50_CD million_CD to_TO introduce_VB its_PRP$ ChemPlus_JJ line_NN ,_, several_JJ packages_NNS aimed_VBN at_IN different_JJ segments_NNS ,_, in_IN 1986_CD ,_, according_VBG to_TO Thomas_NNP Jacob_NNP ,_, senior_JJ vice_NN president_NN of_IN marketing_NN ._.
@@ -1547,10 +1547,10 @@ Chemical_NNP Bank_NNP spent_VBD more_JJR than_IN $_$ 50_CD million_CD to_TO intr
 Still_RB ,_, bankers_NNS expect_VBP packaging_VBG to_TO flourish_CD ,_, primarily_RB because_IN more_JJR customers_NNS are_VBP demanding_VBG that_DT financial_JJ services_NNS be_VB tailored_VBN to_TO their_PRP$ needs_NNS ._.
 ``_`` These_DT days_NNS ,_, banking_NN customers_NNS walk_VBP in_IN the_DT door_NN expecting_VBG you_PRP to_TO have_VB a_DT package_NN especially_RB for_IN them_PRP ,_, ''_'' Ms._NNP Moore_NNP says_VBZ ._.
 Some_DT banks_NNS are_VBP already_RB moving_VBG in_IN that_DT direction_NN ,_, according_VBG to_TO Alvin_NNP T._NNP Sale_NN ,_, marketing_VBG director_NN at_IN First_NNP Union_NNP Corp._NNP in_IN Charlotte_NNP ._.
-First_JJ Union_NN ,_, he_PRP says_VBZ ,_, now_RB has_VBZ packages_NNS for_IN seven_CD customer_NN groups_NNS ._.
+First_NNP Union_NNP ,_, he_PRP says_VBZ ,_, now_RB has_VBZ packages_NNS for_IN seven_CD customer_NN groups_NNS ._.
 Soon_RB ,_, it_PRP will_MD split_VB those_DT into_IN 30_CD ._.
 Says_VBZ Mr._NNP Sale_NN :_: ``_`` I_PRP think_VBP more_JJR banks_NNS are_VBP starting_VBG to_TO realize_VB that_IN we_PRP have_VBP to_TO be_VB more_JJR like_IN the_DT department_NN store_NN ,_, not_RB the_DT boutique_NN ._. ''_''
-IRAs_NN ._.
+IRAs_NNP ._.
 SHAREDATA_NNP Inc._NNP said_VBD it_PRP will_MD amend_VB a_DT registration_NN statement_NN filed_VBN with_IN the_DT Securities_NNS and_CC Exchange_NNP Commission_NNP to_TO delete_VB a_DT plan_NN to_TO sell_VB 500,000_CD newly_RB issued_VBN common_JJ shares_NNS ._.
 The_DT Chandler_NNP ,_, Ariz._NNP ,_, company_NN said_VBD it_PRP will_MD resubmit_VB the_DT registration_NN to_TO cover_VB only_RB the_DT 2.3_CD million_CD warrants_NNS ,_, each_DT exercisable_JJ for_IN the_DT purchase_NN of_IN one_CD common_JJ share_NN ._.
 Currently_RB ,_, ShareData_NNP has_VBZ about_RB 4.1_CD million_CD common_JJ shares_NNS outstanding_JJ ._.
@@ -1570,8 +1570,8 @@ A_DT steady_JJ deposit_NN base_NN ._.
 Performing_VBG loans_NNS ._.
 At_IN the_DT same_JJ time_NN ,_, you_PRP 'll_MD give_VB your_PRP$ Foster_JJ Savings_NNS Institution_NN the_DT gift_NN of_IN hope_NN and_CC freedom_NN from_IN the_DT federal_JJ regulators_NNS who_WP want_VBP to_TO close_VB its_PRP$ doors_NNS --_: for_IN good_JJ ._.
 As_IN a_DT Foster_JJ Corporate_JJ Parent_NN ,_, you_PRP will_MD experience_VB the_DT same_JJ joy_NNS felt_VBD by_IN Robert_NNP Bass_NNP ,_, Lewis_NNP Ranieri_NNP ,_, William_NNP Simon_NNP and_CC others_NNS ,_, who_WP find_VBP ways_NNS to_TO help_VB troubled_JJ savings_NNS institutions_NNS and_CC their_PRP$ employees_NNS help_VBP themselves_PRP ._.
-That_IN builds_JJ confidence_NN ,_, self_NNP sufficiency_NNP ,_, not_RB to_TO mention_VB critical_JJ regulatory_JJ net_JJ worth_NN ._.
-Do_VBP n't_RB wait_VB --_: a_DT savings_NNP institution_NNP needs_VBZ your_PRP$ help_NN now_RB !_.
+That_DT builds_JJ confidence_NN ,_, self_NNP sufficiency_NNP ,_, not_RB to_TO mention_VB critical_JJ regulatory_JJ net_JJ worth_NN ._.
+Do_VB n't_RB wait_VB --_: a_DT savings_NNP institution_NNP needs_VBZ your_PRP$ help_NN now_RB !_.
 Every_DT day_NN you_PRP delay_VB ,_, a_DT savings_NNP institution_NNP 's_POS health_NN --_: and_CC the_DT federal_JJ budget_NN deficit_NN --_: grows_VBZ worse_JJR ._.
 Think_VB about_IN the_DT good_JJ you_PRP can_MD do_VB for_IN just_RB $_$ 15,000_CD a_DT month_NN ,_, about_IN the_DT cost_NN of_IN a_DT mid-size_NNP Chevrolet_NNP or_CC two_CD semesters_NN at_IN a_DT state_NN university_NN ._.
 Then_RB send_VB your_PRP$ support_NN to_TO a_DT savings_NNP institution_NN that_WDT has_VBZ taken_VBN a_DT bad_JJ rap_NN in_IN the_DT press_NN and_CC on_IN its_PRP$ bottom_JJ line_NN ._.
@@ -1584,7 +1584,7 @@ The_DT Chicago_NNP Merc_NNP said_VBD a_DT new_JJ one-hour_JJ price_NN limit_NN w
 If_IN the_DT 20-point_JJ limit_NN is_VBZ triggered_VBN after_IN 1:30_JJ p.m_NN ._. Chicago_NNP time_NNP ,_, it_PRP would_MD remain_VB in_IN effect_NN until_IN the_DT normal_JJ close_NN of_IN trading_NN at_IN 3:15_JJ p.m_NN ._.
 With_IN the_DT limit_NN in_IN effect_NN ,_, members_NNS would_MD be_VB able_JJ to_TO execute_VB trades_NNS at_IN the_DT limit_NN price_NN or_CC at_IN higher_JJR prices_NNS ,_, but_CC not_RB below_IN it_PRP ._.
 The_DT exchange_NN said_VBD it_PRP decided_VBD a_DT new_NNP circuit_NNP breaker_NNP was_VBD needed_VBN following_VBG a_DT review_NN of_IN the_DT tumultuous_JJ trading_NN in_IN stocks_NNS and_CC stock-index_JJ futures_NNS on_IN Friday_NNP Oct._NNP 13_CD ,_, when_WRB the_DT Dow_NNP Jones_NNP industrials_NNS plunged_VBD 190_CD points_NNS and_CC stock-index_JJ futures_NNS prices_NNS skidded_VBP as_RB well_RB ._.
-Late_JJ that_IN afternoon_NN the_DT S&P_NNP 500_CD stock-index_NN futures_NNS contract_NN fell_VBD a_DT total_NN of_IN 30_CD index_NN points_NNS ,_, hitting_VBG a_DT Merc_NNP circuit_NNP breaker_NNP limit_NN that_WDT remained_VBD in_IN effect_NN for_IN the_DT rest_NN of_IN the_DT trading_NN session_NN ._.
+Late_RB that_IN afternoon_NN the_DT S&P_NNP 500_CD stock-index_NN futures_NNS contract_NN fell_VBD a_DT total_NN of_IN 30_CD index_NN points_NNS ,_, hitting_VBG a_DT Merc_NNP circuit_NNP breaker_NNP limit_NN that_WDT remained_VBD in_IN effect_NN for_IN the_DT rest_NN of_IN the_DT trading_NN session_NN ._.
 The_DT Merc_NN said_VBD that_IN its_PRP$ existing_JJ 30-minute_NN ,_, 12-point_JJ limit_NN on_IN S&P_NNP 500_CD stock-index_NN futures_NNS trading_NN (_( equal_JJ to_TO about_RB 100_CD points_NNS on_IN the_DT Dow_NNP Jones_NNP industrials_NNP )_) ,_, which_WDT was_VBD triggered_VBN Oct._NNP 13_CD ,_, will_MD remain_VB in_IN effect_NN ._.
 Leo_NNP Melamed_NNP ,_, Merc_NNP executive_NNP committee_NNP chairman_NNP ,_, said_VBD that_IN the_DT 12-point_JJ limit_NN appeared_VBD to_TO lessen_VB the_DT selling_NN panic_NN Oct._NNP 13_CD ._.
 But_CC when_WRB the_DT contract_NN reopened_NN ,_, the_DT subsequent_JJ flood_NN of_IN sell_JJ orders_NNS that_WDT quickly_RB knocked_VBD the_DT contract_NN down_RB to_TO the_DT 30-point_JJ limit_NN indicated_VBD that_IN the_DT intermediate_JJ limit_NN of_IN 20_CD points_NNS was_VBD needed_VBN to_TO help_VB keep_VB stock_NN and_CC stock-index_JJ futures_NNS prices_NNS synchronized_VBD ._.
@@ -1605,7 +1605,7 @@ At_IN one_CD point_NN ,_, Mr._NNP Phelan_NNP angered_VBD the_DT subcommittee_NN 
 Mr._NNP Phelan_NNP then_RB responded_VBN that_IN he_PRP would_MD have_VB been_VBN happy_JJ just_RB writing_VBG a_DT report_NN to_TO the_DT panel_NN ,_, the_DT aide_NN added_VBD ._.
 At_IN another_DT point_NN during_IN the_DT hearing_NN ,_, Rep._NNP Markey_NNP asked_VBD Mr._NNP Phelan_NNP what_WP would_MD be_VB discussed_VBN at_IN a_DT New_NNP York_NNP exchange_NNP board_NNP meeting_NN today_NN ._.
 Mr._NNP Phelan_NNP said_VBD the_DT Big_JJ Board_NN is_VBZ likely_JJ to_TO study_VB the_DT program-trading_JJ issue_NN ._.
-That_IN response_NNP annoyed_NNP Rep._NNP Markey_NNP ,_, House_NNP aides_NNS said_VBD ,_, and_CC the_DT congressman_NN snapped_VBD back_RP that_IN there_EX had_VBD been_VBN enough_JJ studies_NNS of_IN the_DT issue_NN and_CC that_IN it_PRP was_VBD time_NN for_IN action_NN on_IN the_DT matter_NN ._.
+That_DT response_NN annoyed_NNP Rep._NNP Markey_NNP ,_, House_NNP aides_NNS said_VBD ,_, and_CC the_DT congressman_NN snapped_VBD back_RP that_IN there_EX had_VBD been_VBN enough_JJ studies_NNS of_IN the_DT issue_NN and_CC that_IN it_PRP was_VBD time_NN for_IN action_NN on_IN the_DT matter_NN ._.
 Fifteen_NN of_IN the_DT 26_CD subcommittee_NN members_NNS attended_VBD the_DT hearing_NN ,_, most_RBS notably_RB Rep._NNP John_NNP Dingell_NNP (_( D._NNP ,_, Mich._NNP )_) ,_, the_DT full_JJ House_NN Energy_NN and_CC Commerce_NNP Committee_NNP chairman_NNP ,_, who_WP has_VBZ been_VBN willing_JJ to_TO let_VB Mr._NNP Markey_NNS carry_VBP the_DT legislation_NN in_IN recent_JJ months_NNS ._.
 Mr._NNP Dingell_NNP expressed_VBD concern_NN ,_, sources_NNS said_VBD ,_, about_IN jurisdictional_JJ problems_NNS in_IN regulating_JJ program_NN trading_NN ,_, which_WDT uses_VBZ futures_NNS to_TO offset_VB stock_NN trades_NNS ._.
 The_DT futures_NNS industry_NN is_VBZ regulated_VBN by_IN the_DT Commodity_NN Futures_NNS Trading_NN Commission_NN ,_, which_WDT reports_VBZ to_TO the_DT Agriculture_NN committees_NNS in_IN both_DT houses_NNS ._.
@@ -1638,7 +1638,7 @@ Ten_NNP shirt-sleeved_NNP ringers_NNP stand_NN in_IN a_DT circle_NN ,_, one_PRP 
 No_DT one_CD speaks_CD ,_, and_CC the_DT snaking_NN of_IN the_DT ropes_NN seems_VBZ to_TO make_VB as_IN much_JJ sound_NN as_IN the_DT bells_NN themselves_PRP ,_, muffled_VBG by_IN the_DT ceiling_NN ._.
 Totally_RB absorbed_CD ,_, the_DT ringers_JJ stare_NNS straight_RB ahead_RB ,_, using_VBG peripheral_JJ vision_NN (_( they_PRP call_VBP it_PRP ``_`` rope-sight_FW ''_'' )_) to_TO watch_VB the_DT other_JJ ropes_NN and_CC thus_RB time_VB their_PRP$ pulls_NN ._.
 Far_RB above_IN in_IN the_DT belfry_NN ,_, the_DT huge_JJ bronze_JJ bells_NN ,_, mounted_VBG on_IN wheels_NNP ,_, swing_VBP madly_VBN through_IN a_DT full_JJ 360_JJ degrees_NN ,_, starting_VBG and_CC ending_VBG ,_, surprisingly_RB ,_, in_IN the_DT inverted_NN ,_, or_CC mouth-up_JJ position_NN ._.
-Skilled_JJ ringers_NNS use_VBP their_PRP$ wrists_NN to_TO advance_VB or_CC retard_VBG the_DT next_JJ swing_NN ,_, so_RB that_IN one_CD bell_NN can_MD swap_VB places_NNS with_IN another_DT in_IN the_DT following_JJ change_NN ._.
+Skilled_NNP ringers_NNP use_VB their_PRP$ wrists_NN to_TO advance_VB or_CC retard_VBG the_DT next_JJ swing_NN ,_, so_RB that_IN one_CD bell_NN can_MD swap_VB places_NNS with_IN another_DT in_IN the_DT following_JJ change_NN ._.
 In_IN a_DT well-known_JJ detective-story_NNS involving_VBG church_NNP bells_NNP ,_, English_NNP novelist_NNP Dorothy_NNP L._NNP Sayers_NNP described_VBD ringing_VBN as_IN a_DT ``_`` passion_NNP {_( that_WDT }_) finds_VBZ its_PRP$ satisfaction_NN in_IN mathematical_NNP completeness_NNP and_CC mechanical_NNP perfection_NNP ._. ''_''
 Ringers_NNP ,_, she_PRP added_VBD ,_, are_VBP ``_`` filled_VBN with_IN the_DT solemn_JJ intoxication_NNS that_WDT comes_VBZ of_IN intricate_NNP ritual_NNP faultlessly_NNP performed_VBD ._. ''_''
 ``_`` Ringing_NNP does_VBZ become_VBN a_DT bit_NN of_IN an_DT obsession_NN ,_, ''_'' admits_VBZ Stephanie_NNP Pattenden_NNP ,_, master_NN of_IN the_DT band_NN at_IN St._NNP Mary_NNP Abbot_NNP and_CC one_CD of_IN England_NNP 's_POS best_JJS female_JJ ringers_NN ._.
@@ -1675,10 +1675,10 @@ In_IN the_DT torrent_NN of_IN replies_NNS that_WDT followed_VBD ,_, one_CD woman
 Another_DT women_NNS wrote_VBD from_IN Sheffield_VBG to_TO say_VB that_IN in_IN her_PRP$ 60_CD years_NNS of_IN ringing_NNP ,_, ``_`` I_PRP have_VBP never_RB known_VBN a_DT lady_NN to_TO faint_VB in_IN the_DT belfry_NN ._.
 I_PRP have_VBP seen_VBN one_CD or_CC two_CD men_NNS die_VBP ,_, bless_VBG them_PRP ._.
 Investors_NNS unsettled_VBN by_IN the_DT stock_NN market_NN 's_POS gyrations_NNS can_MD take_VB some_DT comfort_NN in_IN the_DT predictable_JJ arrival_NN of_IN quarterly_JJ dividend_NN checks_NNS ._.
-That_WDT has_VBZ been_VBN particularly_RB true_JJ this_DT year_NN with_IN many_JJ companies_NNS raising_VBG their_PRP$ payouts_NN more_RBR than_IN 10_CD %_NN ._.
+That_DT has_VBZ been_VBN particularly_RB true_JJ this_DT year_NN with_IN many_JJ companies_NNS raising_VBG their_PRP$ payouts_NN more_RBR than_IN 10_CD %_NN ._.
 But_CC do_VBP n't_RB breathe_VBN too_RB easy_JJ :_: Those_DT dividend_NN increases_NNS may_MD signal_VB trouble_NN ahead_RB for_IN stock_NN prices_NNS ,_, some_DT analysts_NNS warn_VBD ._.
 In_IN the_DT past_NN ,_, they_PRP say_VBP ,_, the_DT strongest_JJS dividend_NN growth_NN has_VBZ often_RB come_VBN at_IN times_NNS when_WRB the_DT stock-market_NN party_NN was_VBD almost_RB over_RB ._.
-That_WDT can_MD be_VB a_DT trap_NN for_IN unwary_JJ investors_NNS ,_, says_VBZ Richard_NNP Bernstein_NNP ,_, senior_JJ quantitative_JJ analyst_NN at_IN Merrill_NNP Lynch_NNP &_CC Co_NNP ._.
+That_DT can_MD be_VB a_DT trap_NN for_IN unwary_JJ investors_NNS ,_, says_VBZ Richard_NNP Bernstein_NNP ,_, senior_JJ quantitative_JJ analyst_NN at_IN Merrill_NNP Lynch_NNP &_CC Co_NNP ._.
 Strong_JJ dividend_NN growth_NN ,_, he_PRP says_VBZ ,_, is_VBZ ``_`` the_DT black_JJ widow_NN of_IN valuation_JJ ''_'' --_: a_DT reference_NN to_TO the_DT female_JJ spiders_NNS that_WDT attract_VBP males_VBN and_CC then_RB kill_VB them_PRP after_IN mating_NNP ._.
 Stephen_NNP Boesel_NNP ,_, president_NN of_IN T._NNP Rowe_NNP Price_NN Growth_NN and_CC Income_NN Fund_NN ,_, explains_VBZ that_IN companies_NNS raise_VB their_PRP$ payouts_JJ most_RBS robustly_VBN only_RB after_IN the_DT economy_NN and_CC corporate_JJ profits_NNS have_VBP been_VBN growing_VBG for_IN some_DT time_NN ._.
 ``_`` Invariably_NNP ,_, those_DT strong_JJ periods_NNS in_IN the_DT economy_NN give_VB way_NN to_TO recessionary_CD environments_CD ,_, ''_'' he_PRP says_VBZ ._.
@@ -1709,7 +1709,7 @@ In_IN particular_JJ ,_, Mr._NNP Coxon_NNP says_VBZ ,_, businesses_NNS are_VBP pa
 So_RB ,_, while_IN stock_NN prices_NNS may_MD look_VB fairly_RB high_JJ relative_JJ to_TO dividends_NNS ,_, they_PRP are_VBP not_RB excessive_JJ relative_JJ to_TO the_DT underlying_JJ corporate_JJ strength_NN ._.
 Rather_RB than_IN increasing_VBG dividends_NNS ,_, some_DT companies_NNS have_VBP used_VBN cash_NN to_TO buy_VB back_RP some_DT of_IN their_PRP$ shares_NNS ,_, notes_VBZ Steven_NNP G._NNP Einhorn_NNP ,_, co-chairman_VBG of_IN the_DT investment_NN policy_NN committee_NN at_IN Goldman_NNP ,_, Sachs_NNP &_CC Co_NNP ._.
 He_PRP factors_NNS that_IN into_IN the_DT market_NN yield_NN to_TO get_VB an_DT adjusted_JJ yield_NN of_IN about_IN 3.6_CD %_NN ._.
-That_WDT is_VBZ just_RB a_DT tad_NN below_IN the_DT average_NN of_IN the_DT past_JJ 40_CD years_NNS or_CC so_RB ,_, he_PRP says_VBZ ._.
+That_DT is_VBZ just_RB a_DT tad_NN below_IN the_DT average_NN of_IN the_DT past_JJ 40_CD years_NNS or_CC so_RB ,_, he_PRP says_VBZ ._.
 What_WP will_MD happen_VB to_TO dividend_NN growth_NN next_JJ year_NN ?_.
 Common_JJ wisdom_NN suggests_VBZ a_DT single-digit_JJ rate_NN of_IN growth_NN ,_, reflecting_VBG a_DT weakening_NN in_IN the_DT economy_NN and_CC corporate_JJ profits_NNS ._.
 PaineWebber_NNP Inc._NNP ,_, for_IN instance_NN ,_, is_VBZ forecasting_JJ growth_NN in_IN S&P_NNP 500_CD dividends_NNS of_IN just_RB under_IN 5_CD %_NN in_IN 1990_CD ,_, down_RB from_IN an_DT estimated_JJ 11_CD %_NN this_DT year_NN ._.
@@ -1719,7 +1719,7 @@ Dividend_NN growth_NN on_IN the_DT order_NN of_IN 12_CD %_NN is_VBZ expected_VBN
 Those_DT dividend_NN bulls_NNS argue_VBP that_IN corporations_NNS are_VBP in_IN the_DT unusual_JJ position_NN of_IN having_VBG plenty_NN of_IN cash_NN left_VBD over_RP after_IN paying_VBG dividends_NNS and_CC making_VBG capital_NN expenditures_NNS ._.
 One_CD indicator_CD investors_NNS might_MD want_VB to_TO watch_VB is_VBZ the_DT monthly_JJ tally_NN from_IN Standard_NNP &_CC Poor_NNP 's_VBZ of_IN the_DT number_NN of_IN public_JJ companies_NNS adjusting_VBD their_PRP$ dividends_NNS ._.
 A_DT total_NN of_IN 139_JJ companies_NNS raised_VBD dividends_NNS in_IN October_NNP ,_, basically_RB unchanged_JJ from_IN 138_VBG a_DT year_NN ago_RB ,_, S&P_NNP said_VBD Wednesday_NNP ._.
-That_WDT followed_VBD four_CD straight_JJ months_NNS in_IN which_WDT the_DT number_NN of_IN increases_NNS trailed_VBD the_DT year-earlier_JJ pace_NN ._.
+That_DT followed_VBD four_CD straight_JJ months_NNS in_IN which_WDT the_DT number_NN of_IN increases_NNS trailed_VBD the_DT year-earlier_JJ pace_NN ._.
 While_IN the_DT S&P_NNP tally_NNP does_VBZ n't_RB measure_VB the_DT magnitude_NN of_IN dividend_NN changes_NNS ,_, a_DT further_JJ slippage_NN in_IN the_DT number_NN of_IN dividend_NN increases_NNS could_MD be_VB a_DT harbinger_NN of_IN slower_JJR dividend_NN growth_NN next_JJ year_NN ._.
 In_IN any_DT case_NN ,_, opinion_NN is_VBZ mixed_VBN on_IN how_WRB much_RB of_IN a_DT boost_NN the_DT overall_JJ stock_NN market_NN would_MD get_VB even_RB if_IN dividend_NN growth_NN continues_VBZ at_IN double-digit_JJ levels_NNS ._.
 Mr._NNP Einhorn_NNP of_IN Goldman_NNP Sachs_NNP estimates_VBZ the_DT stock_NN market_NN will_MD deliver_VB a_DT 12_CD %_NN to_TO 15_CD %_NN total_NN return_NN from_IN appreciation_NN and_CC dividends_NNS over_IN the_DT next_JJ 12_CD months_NNS --_: vs._FW a_FW ``_`` cash_NN rate_NN of_IN return_NN ''_'' of_IN perhaps_RB 7_CD %_NN or_CC 8_CD %_NN if_IN dividend_NN growth_NN is_VBZ weak_JJ ._.
@@ -1739,7 +1739,7 @@ The_DT ailing_JJ company_NN ,_, which_WDT has_VBZ reported_VBN net_JJ losses_NNS
 Altogether_NNP ,_, NBI_NNP said_VBD it_PRP will_MD eliminate_VB 266_JJ jobs_NNS at_IN its_PRP$ Boulder_JJ headquarters_NN ,_, 176_JJ field_NN sales_NNS jobs_NNS and_CC 50_CD jobs_NNS at_IN its_PRP$ Canadian_JJ and_CC United_NNP Kingdom_NNP headquarters_NN ._.
 The_DT company_NN 's_POS work_NN force_NN will_MD fall_VB to_TO about_RB 400_CD people_NNS ._.
 Stephen_NNP G._NNP Jerritts_NNP ,_, president_NN and_CC chief_JJ executive_NN officer_NN ,_, said_VBD customers_NNS were_VBD n't_RB willing_JJ to_TO commit_VB to_TO an_DT expensive_JJ NBI_JJ hardware_NN systems_NNS because_IN of_IN the_DT company_NN 's_POS financial_JJ troubles_NNS ._.
-Further_JJ ,_, he_PRP said_VBD ,_, the_DT company_NN does_VBZ n't_RB have_VB the_DT capital_NN needed_VBN to_TO build_VB the_DT business_NN over_IN the_DT next_JJ year_NN or_CC two_CD ._.
+Further_RB ,_, he_PRP said_VBD ,_, the_DT company_NN does_VBZ n't_RB have_VB the_DT capital_NN needed_VBN to_TO build_VB the_DT business_NN over_IN the_DT next_JJ year_NN or_CC two_CD ._.
 ``_`` We_PRP flat_RB ran_VBD out_RP of_IN financing_NN resources_NNS ,_, ''_'' Mr._NNP Jerritts_NNP said_VBD ._.
 ``_`` We_PRP had_VBD to_TO do_VB something_NN structurally_NNS and_CC radically_JJ different_JJ ._. ''_''
 As_IN a_DT result_NN ,_, he_PRP said_VBD NBI_NNP will_MD focus_VB on_IN servicing_VBG its_PRP$ installed_JJ base_NN of_IN systems_NNS ,_, trying_VBG to_TO provide_VB maintenance_NN for_IN other_JJ manufacturers_NNS and_CC expanding_VBG its_PRP$ software_NN business_NN ,_, using_VBG some_DT of_IN the_DT applications_NNS it_PRP developed_VBD for_IN its_PRP$ hardware_NN ._.
@@ -1808,7 +1808,7 @@ Why_WRB are_VBP we_PRP blacks_NNS continually_VBP defined_VBN by_IN our_PRP$ min
 Preston_NNP G._NNP Foster_NNP Birmingham_NNP ,_, Ala_NNP ._.
 The_DT National_JJ Association_NN of_IN Securities_NNP Dealers_NNS ,_, the_DT self-regulatory_JJ organization_NN for_IN the_DT over-the-counter_JJ securities_NNS markets_NNS ,_, disciplined_VBG a_DT number_NN of_IN firms_NNS and_CC individuals_NNS for_IN alleged_JJ violations_NNS of_IN industry_NN rules_NNS ._.
 Two_CD firms_NNS were_VBD expelled_VBN from_IN the_DT NASD_NN ,_, three_CD were_VBD suspended_VBN or_CC barred_NNP and_CC nine_CD were_VBD fined_CD ._.
-First_JJ Securities_NNS Group_NN of_IN California_NNP and_CC a_DT principal_NN of_IN the_DT firm_NN ,_, Louis_NNP Fernando_NNP Vargas_NNP of_IN Marina_NNP del_NNP Rey_NNP ,_, Calif._NNP ,_, were_VBD jointly_RB fined_VB $_$ 15,000_CD and_CC expelled_NN for_IN alleged_JJ violations_NNS of_IN reporting_VBG requirements_NNS on_IN securities_NNP sales_NNS ._.
+First_NNP Securities_NNP Group_NN of_IN California_NNP and_CC a_DT principal_NN of_IN the_DT firm_NN ,_, Louis_NNP Fernando_NNP Vargas_NNP of_IN Marina_NNP del_NNP Rey_NNP ,_, Calif._NNP ,_, were_VBD jointly_RB fined_VB $_$ 15,000_CD and_CC expelled_NN for_IN alleged_JJ violations_NNS of_IN reporting_VBG requirements_NNS on_IN securities_NNP sales_NNS ._.
 Also_RB ,_, Mr._NNP Vargas_NNP was_VBD barred_VBN from_IN association_NNP with_IN any_DT NASD_JJ member_NN ._.
 Neither_DT First_JJ Securities_NNS ,_, of_IN Beverly_NNP Hills_NNP ,_, nor_CC Mr._NNP Vargas_NNP could_MD be_VB reached_VBN for_IN comment_NN ._.
 A_DT telephone-information_JJ operator_NN had_VBD no_DT listing_NN for_IN either_DT party_NN ._.
@@ -1817,13 +1817,13 @@ Also_RB ,_, Mr._NNP Otero_NNP was_VBD barred_VBN from_IN association_NNP with_IN
 J.L._NNP Henry_NNP has_VBZ n't_RB any_DT Miami_NNP telephone_NNP listing_NNP ,_, an_DT operator_NN said_VBD ._.
 Mr._NNP Otero_NNP ,_, who_WP apparently_RB has_VBZ an_DT unpublished_JJ number_NN ,_, also_RB could_MD n't_RB be_VB reached_VBN ._.
 Biscayne_NNP Securities_NNPS Corp._NNP ,_, of_IN Lauderhill_NNP ,_, Fla._NNP ,_, and_CC a_DT principal_NN of_IN the_DT firm_NN ,_, Alvin_JJ Rosenblum_NN of_IN Plantation_NNP ,_, Fla._NNP ,_, were_VBD jointly_RB fined_VB $_$ 20,000_CD and_CC given_VBN 10-day_JJ suspensions_NN for_IN allegedly_JJ selling_NN securities_NNS at_IN unfair_JJ prices_NNS ._.
-Biscayne_NN has_VBZ n't_RB any_DT telephone_NNP listing_NNP ,_, an_DT operator_NN said_VBD ._.
+Biscayne_NNP has_VBZ n't_RB any_DT telephone_NNP listing_NNP ,_, an_DT operator_NN said_VBD ._.
 Mr._NNP Rosenblum_NNP ,_, who_WP apparently_RB has_VBZ an_DT unpublished_JJ phone_NN number_NN ,_, also_RB could_MD n't_RB be_VB reached_VBN ._.
 Triton_NNP Securities_NNPS ,_, of_IN Danville_NNP ,_, Calif._NNP ,_, and_CC a_DT principal_NN of_IN the_DT firm_NN ,_, Delwin_NNP George_NNP Chase_NNP ,_, also_RB of_IN Danville_NNP ,_, were_VBD jointly_RB fined_VB $_$ 10,000_CD and_CC given_VBN 30-day_JJ suspensions_NN as_IN part_NN of_IN a_DT settlement_NN ._.
 While_IN neither_DT admitting_NN nor_CC denying_JJ wrongdoing_NN ,_, Triton_NNP and_CC Mr._NNP Chase_NNP consented_NNP to_TO findings_NNS of_IN violations_NNS in_IN connection_NN with_IN limited-partnership_JJ sales_NNS ._.
 Officials_NNS of_IN Triton_NNP could_MD n't_RB be_VB reached_VBN for_IN comment_NN ._.
 Mr._NNP Chase_NNP did_VBD n't_RB return_VB a_DT telephone_NN call_NN to_TO his_PRP$ office_NN ._.
-Crane_NN &_CC Co._NNP Securities_NNPS Inc._NNP ,_, of_IN Mount_VB Clemens_NNS ,_, Mich._NNP ,_, and_CC its_PRP$ president_NN ,_, Glenn_NNP R._NNP Crane_NNP ,_, of_IN Sterling_NNP Heights_NNP ,_, Mich._NNP ,_, consented_VBG to_TO a_DT joint_JJ fine_NN of_IN $_$ 10,000_CD ._.
+Crane_NNP &_CC Co._NNP Securities_NNPS Inc._NNP ,_, of_IN Mount_VB Clemens_NNS ,_, Mich._NNP ,_, and_CC its_PRP$ president_NN ,_, Glenn_NNP R._NNP Crane_NNP ,_, of_IN Sterling_NNP Heights_NNP ,_, Mich._NNP ,_, consented_VBG to_TO a_DT joint_JJ fine_NN of_IN $_$ 10,000_CD ._.
 Without_IN admitting_NNP or_CC denying_JJ wrongdoing_NN ,_, they_PRP consented_VBZ to_TO findings_NNS of_IN violations_NNS of_IN escrow_NNP and_CC record-keeping_JJ rules_NNS ._.
 Mr._NNP Crane_NNP did_VBD n't_RB return_VB a_DT call_NN seeking_VBG comment_NN ._.
 First_NNP Commonwealth_NNP Securities_NNPS Corp._NNP ,_, of_IN New_NNP Orleans_NNP ,_, and_CC its_PRP$ president_NN ,_, Kenneth_NNP J._NNP Canepa_NNP ,_, also_RB of_IN New_NNP Orleans_NNP ,_, consented_VBG to_TO a_DT $_$ 10,000_CD fine_NN ._.

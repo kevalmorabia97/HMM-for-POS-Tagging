@@ -102,11 +102,13 @@ class HMM:
         train_data = self.readLabeledData(trainFile) # train_data is a nested list of TaggedWords
         self.compute_vocab_and_states(train_data)
         
+        init_tag_counts = defaultdict(float)
         for sen in train_data:
             for tagged_word in sen:
                 if not tagged_word.word in self.vocab:
                     tagged_word.word = UNK
             
+            init_tag_counts[sen[0].tag] += 1.0
             self.tag_counts[sen[0].tag] += 1.0
             self.word_tag_counts[(sen[0].word, sen[0].tag)] += 1.0
             for i in range(1, len(sen)):
@@ -114,13 +116,12 @@ class HMM:
                 self.word_tag_counts[(sen[i].word, sen[i].tag)] += 1.0
                 self.bigram_tag_counts[(sen[i-1].tag, sen[i].tag)] += 1.0
         
-        normalizer = 0
+        normalizer = log(len(train_data))
         for tag in self.states:
-            self.init_log_tag_prob[tag] = log(self.tag_counts[tag])
-            normalizer += self.tag_counts[tag]
-        normalizer = log(normalizer)
-        for tag in self.states:
-            self.init_log_tag_prob[tag] -= normalizer
+            if tag in init_tag_counts:
+                self.init_log_tag_prob[tag] = log(init_tag_counts[tag]) - normalizer
+            else:
+                self.init_log_tag_prob[tag] = float('-inf')
 
     def get_log_transition_prob(self, tag, prev_tag):
         """
