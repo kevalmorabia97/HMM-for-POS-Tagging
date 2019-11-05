@@ -9,9 +9,17 @@
 ## Evaluate the output of your bigram HMM POS tagger
 ##
 import numpy as np
+import os
 import sys
 
-from hw3_hmm import HMM, TaggedWord
+class TaggedWord:
+    """
+    Class that stores a word and tag together
+    """
+    def __init__(self, taggedString):
+        parts = taggedString.split('_')
+        self.word = parts[0] # convert all words to lower case
+        self.tag = parts[1]
 
 
 class Eval:
@@ -19,9 +27,8 @@ class Eval:
     A class for evaluating POS-tagged data
     """
     def __init__(self, goldFile, testFile):
-        hmm = HMM()
-        gold_sens = hmm.readLabeledData(goldFile)
-        test_sens = hmm.readLabeledData(testFile)
+        gold_sens = self.readLabeledData(goldFile)
+        test_sens = self.readLabeledData(testFile)
         
         self.tags = set()
         for sen in gold_sens:
@@ -78,6 +85,24 @@ class Eval:
         """
         ind = self.tag_to_ind[tagTj]
         return self.confusion_matrix[ind, ind] / self.confusion_matrix[ind].sum()
+
+    def readLabeledData(self, inputFile):
+        """
+        Reads a labeled data inputFile, and returns a nested list of sentences, where each sentence is a list of TaggedWord objects
+        """
+        if os.path.isfile(inputFile):
+            file = open(inputFile, "r") # open the input file in read-only mode
+            sens = []
+            for line in file:
+                raw = line.split()
+                sen = []
+                for token in raw:
+                    sen.append(TaggedWord(token))
+                sens.append(sen) # append this list as an element to the list of sentences
+            return sens
+        else:
+            print("Error: unlabeled data file %s does not exist" % inputFile)  # We should really be throwing an exception here, but for simplicity's sake, this will suffice.
+            sys.exit() # exit the script
 
 
 if __name__ == "__main__":
