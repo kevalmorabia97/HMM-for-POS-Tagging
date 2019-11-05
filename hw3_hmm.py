@@ -89,7 +89,7 @@ class HMM:
         for sen in train_data:
             for tagged_word in sen:
                 self.states.add(tagged_word.tag)
-                if word_freq[tagged_word.word] > self.minFreq:
+                if word_freq[tagged_word.word] >= self.minFreq:
                     self.vocab.add(tagged_word.word)
         
         self.n_tags = len(self.states)
