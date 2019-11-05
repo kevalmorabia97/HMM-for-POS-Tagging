@@ -153,14 +153,7 @@ class HMM:
 
         f=open(outFile, 'w+')
         for sen in data:
-            processed_sen = []
-            for word in sen:
-                if word not in self.vocab:
-                    processed_sen.append(UNK)
-                else:
-                    processed_sen.append(word)
-
-            vitTags = self.viterbi(processed_sen)
+            vitTags = self.viterbi(sen)
             senString = ''
             for i in range(len(sen)):
                 senString += sen[i]+"_"+vitTags[i]+" "
@@ -172,6 +165,14 @@ class HMM:
         that generates the word sequence with highest probability, according to this HMM.
         Returns: the list of Viterbi POS tags (strings)
         """
+        processed_sen = []
+        for word in words:
+            if word not in self.vocab:
+                processed_sen.append(UNK)
+            else:
+                processed_sen.append(word)
+        words = processed_sen
+
         tags = sorted(list(self.states))
         n_words = len(words)
         trellis = np.zeros((n_words, self.n_tags), dtype=np.float64)
