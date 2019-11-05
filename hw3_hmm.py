@@ -165,13 +165,7 @@ class HMM:
         that generates the word sequence with highest probability, according to this HMM.
         Returns: the list of Viterbi POS tags (strings)
         """
-        processed_sen = []
-        for word in words:
-            if word not in self.vocab:
-                processed_sen.append(UNK)
-            else:
-                processed_sen.append(word)
-        words = processed_sen
+        words = [word if word in self.vocab else UNK for word in words]
 
         tags = sorted(list(self.states))
         n_words = len(words)
