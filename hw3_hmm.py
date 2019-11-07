@@ -14,9 +14,6 @@ import numpy as np
 import os.path
 import sys
 
-# Unknown word token
-UNK = 'UNK'
-
 class TaggedWord:
     """
     Class that stores a word and tag together
@@ -80,7 +77,7 @@ class HMM:
 
     def compute_vocab_and_states(self, train_data):
         word_freq = defaultdict(int)
-        self.vocab.add(UNK)
+        self.vocab.add('UNK')
 
         for sen in train_data:
             for tagged_word in sen:
@@ -105,7 +102,7 @@ class HMM:
         for sen in train_data:
             for tagged_word in sen:
                 if not tagged_word.word in self.vocab:
-                    tagged_word.word = UNK
+                    tagged_word.word = 'UNK'
             
             init_tag_counts[sen[0].tag] += 1.0
             self.tag_counts[sen[0].tag] += 1.0
@@ -122,15 +119,7 @@ class HMM:
             else:
                 self.init_log_tag_prob[tag] = float('-inf')
 
-        for prev_tag in self.states:
-            for tag in self.states:
-                self.log_trans_prob[(prev_tag, tag)] = self.get_log_transition_prob(tag, prev_tag)
         
-        for tag in self.states:
-            for word in self.vocab:
-                self.log_emit_prob[(tag, word)] = self.get_log_emission_prob(word, tag)
-
-
     def get_log_transition_prob(self, tag, prev_tag):
         """
         return log[smoothed p(tag | prev_tag)]
@@ -165,7 +154,7 @@ class HMM:
         that generates the word sequence with highest probability, according to this HMM.
         Returns: the list of Viterbi POS tags (strings)
         """
-        words = [word if word in self.vocab else UNK for word in words]
+        words = [word if word in self.vocab else 'UNK' for word in words]
 
         tags = sorted(list(self.states))
         n_words = len(words)
@@ -174,18 +163,18 @@ class HMM:
         backpointers = np.zeros((n_words, self.n_tags), dtype=np.int32)
 
         for j in range(self.n_tags):
-            trellis[0, j] = self.init_log_tag_prob[tags[j]] + self.log_emit_prob[(tags[j], words[0])]
+            trellis[0, j] = self.init_log_tag_prob[tags[j]] + self.get_log_emission_prob(words[0], tags[j])
         
         for i in range(1, n_words):
             for j in range(self.n_tags):
-                if self.log_emit_prob[(tags[j], words[i])] == float('-inf'):
+                if self.get_log_emission_prob(words[i], tags[j]) == float('-inf'):
                     continue
                 for t in range(self.n_tags):
-                    temp = trellis[i-1, t] + self.log_trans_prob[(tags[t], tags[j])]
+                    temp = trellis[i-1, t] + self.get_log_transition_prob(tags[j], tags[t])
                     if temp > trellis[i, j]:
                         trellis[i, j] = temp
                         backpointers[i, j] = t
-                trellis[i, j] += self.log_emit_prob[(tags[j], words[i])]
+                trellis[i, j] += self.get_log_emission_prob(words[i], tags[j])
         
         best_end_tag = -1
         best_log_prob = float('-inf')
